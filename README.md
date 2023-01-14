@@ -103,8 +103,8 @@
     <br />
 -   👨‍💻 **Frontend Developer**\
     📆 Sep 2018 - Feb 2019\
-    📍 **Kiutor** - Rio de Janeiro/RJ, Brazil
-    🛠️ **Skills**
+    📍 **Kiutor** - Rio de Janeiro/RJ, Brazil\
+    🛠️ **Skills**\
 
 -   👨‍💻 **Frontend Developer**\
     📆 Apr 2017 - Sep 2018\
