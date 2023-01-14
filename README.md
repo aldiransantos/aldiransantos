@@ -35,73 +35,72 @@
     📆 Aug 2019 - Mar 2021\
     📍 **Zoop** - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
-    <div>
-        <img
+    <img
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
             alt="CSS3"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
             alt="JavaScript"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
             alt="jQuery"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whitehttps://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
             alt="PHP"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
             alt="Wordpress"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
             alt="Xampp"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"
             alt="Hotjar"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
             alt="Figma"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
             alt="Adobe XD"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
             alt="Git"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
             alt="GitHub"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
             alt="Trello"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"
             alt="Miro"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
             alt="Slack"
         />
-        <img
+    <img
             src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"
             alt="Zoom"
         />
-    </div>
-
+    <br />
+    <br />
 -   👨‍💻 **Frontend Developer**\
     📆 Sep 2018 - Feb 2019\
     📍 **Kiutor** - Rio de Janeiro/RJ, Brazil
