@@ -1,12 +1,15 @@
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
-  <a href="mailto:contact.aldiransantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-
-<a href="https://www.linkedin.com/in/aldiransantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-
-<a href="https://bityli.com/desenvolvedor-frontend-aldiransantos" target="_blank"><img src="./imgs/icon-curriculum.svg" alt="curriculum" /></a>
-
+  <a href="mailto:contact.aldiransantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aldiransantos/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" />
+  </a>
+  <a href="https://bityli.com/desenvolvedor-frontend-aldiransantos">
+    <img src="./imgs/icon-curriculum.svg" target="_blank" alt="curriculum" />
+  </a>
 </div>
 
 ![division-line](./imgs/division-line.jpg)
