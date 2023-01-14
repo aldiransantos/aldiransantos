@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" />
   </a>
   <a href="https://bityli.com/desenvolvedor-frontend-aldiransantos">
-    <img src="./imgs/icon-curriculum.svg" target="_blank" alt="curriculum" />
+    <img src="./imgs/icon-curriculum.png" target="_blank" alt="curriculum" />
   </a>
 </div>
 
@@ -17,13 +17,13 @@
 <details>
   <summary>📃 Resume</summary>
 
-## Education
+### Education
 
 -   📖 **Computer Science**\
     📆 2011 - 2016\
     📍 **Federal University of Alagoas** - Arapiraca, Brazil
 
-## Experience
+### Experience
 
 -   👨‍💻 **Frontend Developer**\
     📆 Aug 2019 - Mar 2021\
