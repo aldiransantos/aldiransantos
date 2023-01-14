@@ -33,7 +33,7 @@
 
 -   👨‍💻 **Frontend Developer**\
     📆 Aug 2019 - Mar 2021\
-    📍 **Zoop** - Rio de Janeiro/RJ, Brazil
+    📍 **Zoop** - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
     <div>
         <img
@@ -63,6 +63,10 @@
         <img
             src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
             alt="Xampp"
+        />
+        <img
+            src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"
+            alt="Hotjar"
         />
         <img
             src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
@@ -95,10 +99,6 @@
         <img
             src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"
             alt="Zoom"
-        />
-        <img
-            src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"
-            alt="Hotjar"
         />
     </div>
 
