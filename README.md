@@ -109,8 +109,8 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="33.3%">
-                        <a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank"><b target="_blank">Certificate</b></a>
+                    <td align="center" width="33.3%">
+                        <a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank" rel="external"><b>Certificate</b></a>
                     </td>
                 </tr>
             </table>
