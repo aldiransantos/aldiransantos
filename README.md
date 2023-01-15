@@ -23,7 +23,6 @@
 <details>
   <summary>📄 <b>RESUME</b></summary>
 
-![line](./imgs/line.jpg)
 ## Education
 
 -   📖 **Bachelor of Computer Science**\
@@ -310,8 +309,10 @@
         />
     </div>
 
+![line](./imgs/line.jpg)
 </details>
 
+![line](./imgs/line.jpg)
 ## HARD SKILLS
 
 <div>
