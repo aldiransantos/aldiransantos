@@ -38,17 +38,17 @@
         <table>
             <tr>
                 <td width="33.3%">
-                    <p>**Plataform Course:** <a href="https://origamid.com/">Origamid</a></p>
+                    <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
                 </td>
             </tr>
             <tr>
                 <td width="33.3%">
-                    <p>**Total hours:** 36 hours</p>
+                    <p><b>Total hours:</b> 36 hours</p>
                 </td>
             </tr>
             <tr>
                 <td width="33.3%">
-                    <p><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">**Certificate**</a></p>
+                    <p><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b>Certificate</b></a></p>
                 </td>
             </tr>
         </table>
