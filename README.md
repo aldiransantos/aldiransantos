@@ -32,39 +32,92 @@
     ### Courses
 
 <table>
-  <tr>
-    <td valign="top" width="33.3%">
-        <h3 align="center">React Course</h3>
-        <table>
-            <tr>
-                <td width="33.3%">
-                    <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
-                </td>
-            </tr>
-            <tr>
-                <td width="33.3%">
-                    <p><b>Total hours:</b> 36 hours</p>
-                </td>
-            </tr>
-            <tr>
-                <td width="33.3%">
-                    <p><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b>Certificate</b></a></p>
-                </td>
-            </tr>
-        </table>
-    </td>
-    <td valign="top" width="33.3%">
-      <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-      <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-      <p>36 hours</p>
-    </td>
-    <td valign="top" width="33.3%">
-      <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-      <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-      <p>36 hours</p>
-    </td>
-  </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <h3 align="center">React Course</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Total hours:</b> 36 hours</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b target="_blank">Certificate</b></a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="50%">
+            <h3 align="center">JavaScript ES6 Course</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Total hours:</b> 74 hours</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><a href="https://origamid.com/certificate/3507a5ea" target="_blank"><b target="_blank">Certificate</b></a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <h3 align="center">UI Design for Beginners</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Total hours:</b> 34 hours</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><a href="https://origamid.com/certificate/388aaefb" target="_blank"><b target="_blank">Certificate</b></a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="50%">
+            <h3 align="center">UI Design for Beginners</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Plataform Course:</b> <a href="https://www.freecodecamp.org/">freeCodeCamp</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><b>Total hours:</b> 300 hours</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <p><a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank"><b target="_blank">Certificate</b></a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
 </table>
+
     <br />
 
 ## Work Experience
