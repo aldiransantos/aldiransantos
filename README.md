@@ -111,6 +111,10 @@
             alt="Hotjar"
         />
         <img
+            src="./imgs/ux-ui-design.png"
+            alt="UX/UI Design"
+        />
+        <img
             src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
             alt="Figma"
         />
@@ -169,6 +173,10 @@
         <img
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="Bootstrap"
+        />
+        <img
+            src="./imgs/ux-ui-design.png"
+            alt="UX/UI Design"
         />
         <img
             src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
