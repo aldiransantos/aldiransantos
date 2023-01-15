@@ -21,7 +21,7 @@
 ![division-line](./imgs/division-line-updated.jpg)
 
 <details>
-  <summary>📃 RESUME</summary>
+  <summary>📃 <b>RESUME</b></summary>
 
 ## Education
 
