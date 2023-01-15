@@ -231,10 +231,8 @@
 
 ## HARD SKILLS
 
-<p dir="auto" style=" margin-top: -33px;">
-    <a target="_blank" rel="noopener noreferrer" href="./imgs/division-line-updated.jpg">
-        <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%;">
-    </a>
+<p dir="auto">
+    <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%; margin-top: -33px;">
 </p>
 
 HTML, CSS, Bootstrap
