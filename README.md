@@ -236,7 +236,7 @@
 </div>
 </details>
 
-## HARD SKILLS {#identifier .heading2}
+<h2 id="identifier" class="heading2">HARD SKILLS</h2>
 
 <p dir="auto">
     <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%; margin-top: -33px;">
