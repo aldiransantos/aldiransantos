@@ -35,31 +35,21 @@
         <tr>
             <td valign="top" width="33.3%">
                 <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-
-                <tr>
-                    <td valign="top" width="50%">
-                        <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
-                    </td>
-                    <td valign="top" width="50%">
-                        <p>36 hours</p>
-                    </td>
-                </tr>
+                <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
+                <p>36 hours</p>
             </td>
 
-            <td valign="top" width="33.3">
-                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
-                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
-                <br>
-                <p>Description: </p>
+            <td valign="top" width="33.3%">
+                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+                <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
+                <p>36 hours</p>
             </td>
 
-            <td valign="top" width="33.3">
-                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
-                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
-                <br>
-                <p>Description: </p>
+            <td valign="top" width="33.3%">
+                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+                <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
+                <p>36 hours</p>
             </td>
-
         </tr>
 
     </table>
