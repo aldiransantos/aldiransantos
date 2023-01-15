@@ -296,28 +296,33 @@
 ## SKILLS
 
 <table>
-<tr><div valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 ### HARD SKILLS
 
 <div>  
-    ✔️ HTML, CSS, Bootstrap\
-    ✔️ JavaScript ES6+, React, Redux\
-    ✔️ WordPress, SEO\
-    ✔️ UX/UI Design, Figma\
-    ✔️ Scrum, Kanban\
+    ✔️ HTML, CSS, Bootstrap </br>
+    ✔️ JavaScript ES6+, React, Redux </br>
+    ✔️ WordPress, SEO </br>
+    ✔️ UX/UI Design, Figma </br>
+    ✔️ Scrum, Kanban </br>
     ✔️ Intermediate English
 </div>
-</div><div valign="top" width="50%">
+
+</td>
+
+<div valign="top" width="50%">
 
 ### SOFT SKILLS
 
-<div>  
-    ✔️ Good interpersonal relationship for teamwork\
-    ✔️ Responsibility and autonomy to carry out work\
-    ✔️ Ability to plan and organize to meet deadlines\
+<td>  
+    ✔️ Good interpersonal relationship for teamwork </br>
+    ✔️ Responsibility and autonomy to carry out work </br>
+    ✔️ Ability to plan and organize to meet deadlines </br>
     ✔️ Emotional intelligence to deal with daily challenges 
-</div>
+</td>
+
 </div>
 </tr>
 </table>
