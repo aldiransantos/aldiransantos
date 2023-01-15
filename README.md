@@ -296,8 +296,7 @@
 
 ## SKILLS
 <table>
-    <tr>
-        <td valign="top" width="50%">
+    <tr><div valign="top" width="50%">
             ### HARD SKILLS 
             <div>  
                 ✔️ HTML, CSS, Bootstrap\
@@ -307,8 +306,7 @@
                 ✔️ Scrum, Kanban\
                 ✔️ Intermediate English
             </div>
-        </td>
-        <td valign="top" width="50%">
+        </div><div valign="top" width="50%">
             ### SOFT SKILLS 
             <div>  
                 ✔️ Good interpersonal relationship for teamwork\
@@ -316,7 +314,7 @@
                 ✔️ Ability to plan and organize to meet deadlines\
                 ✔️ Emotional intelligence to deal with daily challenges 
             </div>
-        </td>
+        </div>
     </tr>
 </table>
 
