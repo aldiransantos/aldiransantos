@@ -31,9 +31,9 @@
 
     ### Courses
 
-<table>
+<table align="center">
     <tr>
-        <td valign="bottom" width="50%">
+        <td align="center" width="50%">
             <h3 align="center">React Course</h3>
             <table>
                 <tr>
@@ -53,7 +53,7 @@
                 </tr>
             </table>
         </td>
-        <td width="50%">
+        <td align="center" width="50%">
             <h3 align="center">JavaScript ES6 Course</h3>
             <table>
                 <tr>
@@ -75,7 +75,7 @@
         </td>
     </tr>
     <tr>
-        <td width="50%">
+        <td align="center" width="50%">
             <h3 align="center">UI Design for Beginners</h3>
             <table>
                 <tr>
@@ -95,8 +95,8 @@
                 </tr>
             </table>
         </td>
-        <td width="50%">
-            <h3 align="bottom">Responsive Web Design</h3>
+        <td align="center" width="50%">
+            <h3 align="center">Responsive Web Design</h3>
             <table>
                 <tr>
                     <td width="33.3%">
