@@ -21,7 +21,7 @@
 ![division-line](./imgs/division-line-updated.jpg)
 
 <details>
-  <summary>📃 ## RESUME</summary>
+  <summary>📃 RESUME</summary>
 
 ## Education
 
@@ -231,7 +231,11 @@
 
 ## HARD SKILLS
 
-![division-line](./imgs/division-line-updated.jpg)
+<p dir="auto" style=" margin-top: -33px;">
+    <a target="_blank" rel="noopener noreferrer" href="./imgs/division-line-updated.jpg">
+        <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%;">
+    </a>
+</p>
 
 HTML, CSS, Bootstrap
 JavaScript ES6+, React, Redux
@@ -242,10 +246,9 @@ Intermediate English
 
 <br />
 <br />
+![division-line](./imgs/division-line-updated.jpg)
 
-## SOFT SKILLS
-
-<div style="margin-top: -20px">![division-line](./imgs/division-line-updated.jpg)</div>
+### SOFT SKILLS
 
 Good interpersonal relationship for teamwork;
 Responsibility and autonomy to carry out work;
