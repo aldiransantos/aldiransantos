@@ -23,6 +23,7 @@
 <details>
   <summary>📄 <b>RESUME</b></summary>
 
+![line](./imgs/line.jpg)
 ## Education
 
 -   📖 **Bachelor of Computer Science**\
@@ -356,6 +357,7 @@
     />
 </div>
 
+![line](./imgs/line.jpg)
 ## SOFT SKILLS
 
 🔹 Good interpersonal relationship for teamwork </br>
