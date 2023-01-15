@@ -142,6 +142,10 @@
             alt="jQuery"
         />
         <img
+            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            alt="Git"
+        />
+        <img
             src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
             alt="PHP"
         />
@@ -150,16 +154,8 @@
             alt="Wordpress"
         />
         <img
-            src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
-            alt="Xampp"
-        />
-        <img
             src="https://img.shields.io/badge/SEO-205864?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAABGUlEQVR4nO2WSw6CMBCGSTScwXAUg1fhGMINxGtJvIOJW9EzsPoM2sWktEB5FBb8K9J59GNmmkwQrEFACFyBN/OrBPL6TglQH/hWLgF8/LmujwRYRG0AFXAGIuETC/vRMEexFp/V8cBB5apcAFLDBadGoMVuiU9dACJ1fm8rnclmiC/UdzQEoBgCoNtt/r1aoMhT2UNLC+IpASp1aWTqYdcMTAEg1eihjxZI3VwBtBlqxOt5AkMC0zvP+s6A5RlmLgBx2xBKu2kG5AxZ4jsBvGgDWE8FNrF0C/gvir71kgBLLKUXCRAqiHKRtbxNwA54qOCkh3+ifJ/APhgrHBO6As+SbLIqMDDRqCpg2YQnUtEHoJgR4LcdrUpf7P783dEmThwAAAAASUVORK5CYII="
             alt="SEO"
-        />
-        <img
-            src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"
-            alt="Hotjar"
         />
         <img
             src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDklEQVR4nO2bWW7CMBCGAxJIpb1Ey3G6XQB6BhZ1ebT6UFWllyCovVM5ROkF0FdZGERCFojNknh+aV4wGXt+5p94EhwEMQDnwD0wAJ4rYn3gDmjF410BqAGPwB/VxQwY6ljjwdeBb/zBV4QEFr+8bxisa77KaZ8lh1ZgioOvuAlMUUjDHAiBd2Oh+Wzb8SKI+7SxvPUMNAEq4wvjSLVcSCbcYbwINnzaIGc9Ko+AMMHhZIfxIggdEzCxIWBuHCw3FJMECWSNF0Hcp43lrUflEVB1KCEAyQC8l0AXf9FZNkIdRxuPMpmOue7ylisoJVhIoHsCT20ObTrmuibgAX/RlX0Asg/A+42Qwl8okQAiAUQC+AslEkAkwLYS+AEuHfYgDeApZS79qq5R0O8VMN2HBEaugl9b7EXKXE1Lv2/7yoC2w+CbwEvSRA58q1IXwUAIsINkACIBtY8aMHf42lrbhymspakBY9uFJSy0XSYCQjdhl5eAucPX1tpe03Zsp0rAwSAEWEIyAJGAOlo7THo7Grk+qx0+VQmMdljA5zbXV7IdZnFvn+Zdn9UOm9tkIRIy5rcmoIpQQgCSAYgE8BdKJIBIAJEAnteAIf6irwm4xV9cawJa5giZb/gFzpYNhI8y6MXPDevjpL5gknR+uGZOjM8qnva9jeCDKBG6JujCqI+cH/s//a5Mx3Kz0vwa/gED1vXx4TcMDAAAAABJRU5ErkJggg=="
@@ -174,12 +170,8 @@
             alt="Adobe XD"
         />
         <img
-            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-            alt="Git"
-        />
-        <img
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-            alt="GitHub"
+            src="https://img.shields.io/badge/SCRUM-61c3d0?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQUlEQVR4nO2Zv2sUQRTHRyWo+AMSsPIH/opJEStNLKM2dqZJCsFe/Assot5V0cpoJQjir2A0YCWIEBF/xMZENDaGmEItjIqCRiUieh8ZMgnHc/ZuN7c7t3s3Hzg47vbtd97bNzNv3irl8Xg8Ho/HkyKABqAbGABeAT+A7+b7gPmvQdUiQBcwSXn0NV2qVgCWAqeIRgHo07Yq6xDd+WL6VA2kfUE4NQv0Ax3AKvPR38+a/2QmHFQZXvAmhUNvgbYSNjuBd8JmsmoLI7AZGAQ+AN+AW0BzSNtuy5NvC2Gng/BL2HYr1wCbgI+Wefk5TBDMtlZMfwTtc8L2mnINcJVghkLYTwib9gjae4TthHINc2kfxJcQ9jPCZnUE7TXCdka5BpguFQBgHXAIuAQ8AaZMZfcJuGNZ/VeW0csTnryLAFwpMYA/wF+icR7YFkMQkndeA2wB3hMvOmg3gPVqcUFw4/w8wFbgJvHzFTiiogXBrfMaoAl4GOCEnuOjQC/QCbQUVXYt5rfj5hq5HsxzMajIEUGoivONwMsAx3VxtD3CvZpN6tsCcRdYUSIIVXF+OTBiGawuS3dVcN924LXlvteBJSot8H8lphnWWRHTtLpnuf8JlQaA/ZZUHY7zQGIOSjIIv8OcFRIFWAaMW9K+MQGtJst0eFzVqQD0iAHpTNidoF6HJdsOJKVXFvMEihlUCWOpM24nrWkF2CieRiHs2b8SzBZZENViYKWY5ECOiicx6lB7TGgfdqVd6vzfqxyht0ChfcGV9gLAczGITuUIYJ/QfupKewFzji8mdKlbKebsUMwbV9oLWBqRoTs4laK1hPZPF6LHCE8u4bGsFXqzSepFDULOwThaheZ00pqp6sBYFsExF7rlMiHnUD8ntC+70k5FBwZ4JgIQ2C5LeiD5Kji/w1KCb1D1AjAknv4DVS8w9wpMHod7VD2AvSHyQjdlVK3DXEvsvnBeZ8JeVesQ3BQ9E3D9aVVjc37K4vwj3YoPsHG+LSe11Q0FvBgZL9V0rVZtsmjMq7FWU96eNEVO0KuxkXIdZ3F9fEEgu8SzJpBtKg8C2abygxrZxdkpNRXUtfOaunZeU9fOazJTAHk8Ho9HpYd/hXlI5A5O/egAAAAASUVORK5CYII="
+            alt="SCRUM"
         />
         <img
             src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
@@ -188,22 +180,6 @@
         <img
             src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"
             alt="Miro"
-        />
-        <img
-            src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
-            alt="Slack"
-        />
-        <img
-            src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"
-            alt="Zoom"
-        />
-        <img
-            src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"
-            alt="Zoom"
-        />
-        <img
-            src="https://img.shields.io/badge/SCRUM-61c3d0?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQUlEQVR4nO2Zv2sUQRTHRyWo+AMSsPIH/opJEStNLKM2dqZJCsFe/Assot5V0cpoJQjir2A0YCWIEBF/xMZENDaGmEItjIqCRiUieh8ZMgnHc/ZuN7c7t3s3Hzg47vbtd97bNzNv3irl8Xg8Ho/HkyKABqAbGABeAT+A7+b7gPmvQdUiQBcwSXn0NV2qVgCWAqeIRgHo07Yq6xDd+WL6VA2kfUE4NQv0Ax3AKvPR38+a/2QmHFQZXvAmhUNvgbYSNjuBd8JmsmoLI7AZGAQ+AN+AW0BzSNtuy5NvC2Gng/BL2HYr1wCbgI+Wefk5TBDMtlZMfwTtc8L2mnINcJVghkLYTwib9gjae4TthHINc2kfxJcQ9jPCZnUE7TXCdka5BpguFQBgHXAIuAQ8AaZMZfcJuGNZ/VeW0csTnryLAFwpMYA/wF+icR7YFkMQkndeA2wB3hMvOmg3gPVqcUFw4/w8wFbgJvHzFTiiogXBrfMaoAl4GOCEnuOjQC/QCbQUVXYt5rfj5hq5HsxzMajIEUGoivONwMsAx3VxtD3CvZpN6tsCcRdYUSIIVXF+OTBiGawuS3dVcN924LXlvteBJSot8H8lphnWWRHTtLpnuf8JlQaA/ZZUHY7zQGIOSjIIv8OcFRIFWAaMW9K+MQGtJst0eFzVqQD0iAHpTNidoF6HJdsOJKVXFvMEihlUCWOpM24nrWkF2CieRiHs2b8SzBZZENViYKWY5ECOiicx6lB7TGgfdqVd6vzfqxyht0ChfcGV9gLAczGITuUIYJ/QfupKewFzji8mdKlbKebsUMwbV9oLWBqRoTs4laK1hPZPF6LHCE8u4bGsFXqzSepFDULOwThaheZ00pqp6sBYFsExF7rlMiHnUD8ntC+70k5FBwZ4JgIQ2C5LeiD5Kji/w1KCb1D1AjAknv4DVS8w9wpMHod7VD2AvSHyQjdlVK3DXEvsvnBeZ8JeVesQ3BQ9E3D9aVVjc37K4vwj3YoPsHG+LSe11Q0FvBgZL9V0rVZtsmjMq7FWU96eNEVO0KuxkXIdZ3F9fEEgu8SzJpBtKg8C2abygxrZxdkpNRXUtfOaunZeU9fOazJTAHk8Ho9HpYd/hXlI5A5O/egAAAAASUVORK5CYII="
-            alt="SCRUM"
         />
         
     </div>
@@ -275,8 +251,8 @@
             alt="SCRUM"
         />
         <img
-            src="https://img.shields.io/badge/KANBAN-4db0b3?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+ElEQVR4nO3ZywnCQBSF4VuH2oFaju2oDaSOgB2oey3EfVzE/S8DrkIy5GLUy3g+yCoHMoeZDHmYiYiIfACwAPZADRx+fNTADph7S6yBO/Hc09g8Rc7EdfIUeRBX6ykSmr1ZZDNwVD3ZayafznVVmfy0RTLZvosdMvm0C3VtphjLfxWhlKUVialISTNipdzspiLBZoThR+xLT/aWyadzXZdMfvIiYZiK+JeW1/eWlg1nex8jnMJuv14qkkVwNhbBmYr4X6zizoh9dtdSkayil1Yk5ijSUsgn0xNxHT1FVkBDPA2wHF3kVWYGbAP96NmmMblKiIiI2DhPGqyXQUmn75oAAAAASUVORK5CYII="
-            alt="KANBAN"
+            src="https://img.shields.io/badge/KANBAN-f98fa6?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA/0lEQVR4nO2ZwQ2CUBBEXx1qB2o5tKM2YB0mdKDetRDvetD7GhNP+pewCcoG5iVzG8IMLBtQEEIIIX7DDNgAO6DuWTtgDUyjJZbADbBkur2zteaYILQ5OkSKPBIENkf3SBFLrtaUDq4cbQvec4P/XPBvG/zWdRGP0slem8ajdi5SF1nGVaQaymhZIrWm76CmImN62D1UhJ7uSO3oVPBeGvyXgv/U4DdtLQa+fuvAaEX119Hy8F4jIkq7fk1FvtHWYuhby4ZSpAp8WKUu8sutpSKjHi1LpNbcE4S1Ln4yPSQIbI72kSIL4JogtH3olWlOkAmwSvRHz+qdSQghhKBrnpfeXrXZgxsuAAAAAElFTkSuQmCC"
+            alt="Kanban"
         />
     </div>
     <br />
