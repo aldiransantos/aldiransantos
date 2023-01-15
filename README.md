@@ -1,3 +1,10 @@
+<style>
+    .heading2 {
+        color: #030129;
+        margin-bottom: -32px;
+    }
+</style>
+
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
@@ -229,7 +236,7 @@
 </div>
 </details>
 
-## HARD SKILLS
+## HARD SKILLS {#identifier .heading2}
 
 <p dir="auto">
     <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%; margin-top: -33px;">
