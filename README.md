@@ -33,33 +33,36 @@
 
     <table>
         <tr>
-            <td valign="top" width="50%">
+            <td valign="top" width="33.3%">
+                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a></h2>
+
+                <tr>
+                    <td valign="top" width="50%">
+                        <tr>
+                            <td valign="top" width="50%">
+                                <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
+                            </td>
+                            <td valign="top" width="50%">
+                                <p>36 hours</p>
+                            </td>
+                        </tr>
+                    </td>
+                </tr>
+            </td>
+            <td valign="top" width="33.3">
                 <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
                 <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
                 <br>
                 <p>Description: </p>
             </td>
-            <td valign="top" width="50%">
+            <td valign="top" width="33.3">
                 <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
                 <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
                 <br>
                 <p>Description: </p>
             </td>
         </tr>
-        <tr>
-            <td valign="top" width="50%">
-                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
-                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
-                <br>
-                <p>Description: </p>
-            </td>
-            <td valign="top" width="50%">
-                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
-                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
-                <br>
-                <p>Description: </p>
-            </td>
-        </tr>
+
     </table>
     <br />
 
@@ -202,34 +205,33 @@
     <br />
 
 -   👨‍💻 **Instrutor de Curso**\
- 📆 Feb 2016 - Jun 2016\
- 📍 **Microlins Franchising** - Arapiraca/AL, Brazil\
- 🛠️ **Skills**
-<div>
-<img
+    📆 Feb 2016 - Jun 2016\
+    📍 **Microlins Franchising** - Arapiraca/AL, Brazil\
+    🛠️ **Skills**
+    <div>
+        <img
             src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-            alt="Windows"
+            alt="Windows" 
         />
-<img
+        <img
             src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"
-            alt="Windows XP"
+            alt="Windows XP" 
         />
-<img
+        <img
             src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"
-            alt="Microsoft Word"
+            alt="Microsoft Word" 
         />
-<img
+        <img
             src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
             alt="Microsoft Excel"
         />
-<img
+        <img
             src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"
             alt="Microsoft PowerPoint"
         />
-</div>
-</details>
+    </div>
 
-![division-line](./imgs/division-line-updated.jpg)
+</details>
 
 ## HARD SKILLS
 
@@ -238,12 +240,7 @@
 ✔️ WordPress, SEO\
 ✔️ UX/UI Design, Figma\
 ✔️ Scrum, Kanban\
-✔️ Intermediate English\
-
-<br />
-<br />
-
-![division-line](./imgs/division-line-updated.jpg)
+✔️ Intermediate English
 
 ## SOFT SKILLS
 
