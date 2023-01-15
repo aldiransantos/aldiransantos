@@ -31,22 +31,20 @@
 
     ### Courses
 
-    <table>
-        <tr>
-            <td valign="top" width="50%">
-                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-                <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
-                <p>36 hours</p>
-            </td>
-
-            <td valign="top" width="50%">
-                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-                <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
-                <p>36 hours</p>
-            </td>
-        </tr>
-
-    </table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
+      <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+      <p>36 hours</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
+      <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+      <p>36 hours</p>
+    </td>
+  </tr>
+</table>
     <br />
 
 ## Work Experience
