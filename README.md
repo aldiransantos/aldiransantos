@@ -1,11 +1,3 @@
-<style>
-    .markdown-body h2,
-    #user-content-identifier {
-        color: #030129 !important;
-        margin-bottom: -32px !important;
-    }
-</style>
-
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
@@ -179,7 +171,7 @@
 
 -   👨‍💻 **Frontend Developer**\
     📆 Apr 2017 - Sep 2018\
-    📍 **MEDGRUPO** - Rio de Janeiro/RJ, Brazil
+    📍 **MEDGRUPO** - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
     <div>
         <img
@@ -211,8 +203,8 @@
 
 -   👨‍💻 **Instrutor de Curso**\
  📆 Feb 2016 - Jun 2016\
- 📍 **Microlins Franchising** - Arapiraca/AL, Brazil
-🛠️ **Skills**
+ 📍 **Microlins Franchising** - Arapiraca/AL, Brazil\
+ 🛠️ **Skills**
 <div>
 <img
             src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
@@ -237,26 +229,25 @@
 </div>
 </details>
 
-<h2 style="color: #030129 !important; margin-bottom: -32px !important;">HARD SKILLS</h2>
-
-<p dir="auto">
-    <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%; margin-top: -33px;">
-</p>
-
-HTML, CSS, Bootstrap
-JavaScript ES6+, React, Redux
-WordPress, SEO
-UX/UI Design, Figma
-Scrum, Kanban
-Intermediate English
-
-<br />
-<br />
 ![division-line](./imgs/division-line-updated.jpg)
 
-### SOFT SKILLS
+## HARD SKILLS
 
-Good interpersonal relationship for teamwork;
-Responsibility and autonomy to carry out work;
-Ability to plan and organize to meet deadlines;
-Emotional intelligence to deal with daily challenges
+✔️ HTML, CSS, Bootstrap\
+✔️ JavaScript ES6+, React, Redux\
+✔️ WordPress, SEO\
+✔️ UX/UI Design, Figma\
+✔️ Scrum, Kanban\
+✔️ Intermediate English\
+
+<br />
+<br />
+
+![division-line](./imgs/division-line-updated.jpg)
+
+## SOFT SKILLS
+
+✔️ Good interpersonal relationship for teamwork\
+✔️ Responsibility and autonomy to carry out work\
+✔️ Ability to plan and organize to meet deadlines\
+✔️ Emotional intelligence to deal with daily challenges
