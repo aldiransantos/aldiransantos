@@ -312,7 +312,6 @@
 ![line](./imgs/line.jpg)
 </details>
 
-![line](./imgs/line.jpg)
 ## HARD SKILLS
 
 <div>
@@ -358,10 +357,9 @@
     />
 </div>
 
-![line](./imgs/line.jpg)
 ## SOFT SKILLS
 
-🔹 Good interpersonal relationship for teamwork </br>
-🔹 Responsibility and autonomy to carry out work </br>
-🔹 Ability to plan and organize to meet deadlines </br>
-🔹 Emotional intelligence to deal with daily challenges
+- Good interpersonal relationship for teamwork </br>
+- Responsibility and autonomy to carry out work </br>
+- Ability to plan and organize to meet deadlines </br>
+- Emotional intelligence to deal with daily challenges
