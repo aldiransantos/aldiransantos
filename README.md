@@ -21,7 +21,7 @@
 ![division-line](./imgs/division-line-updated.jpg)
 
 <details>
-  <summary>📃 RESUME</summary>
+  <summary>📃 ## RESUME</summary>
 
 ## Education
 
@@ -62,8 +62,6 @@
         </tr>
     </table>
     <br />
-    <br />
-    ____
 
 ## Work Experience
 
@@ -138,6 +136,7 @@
         />
     </div>
     <br />
+
 -   👨‍💻 **Frontend Developer**\
     📆 Sep 2018 - Feb 2019\
     📍 **Kiutor** - Rio de Janeiro/RJ, Brazil\
@@ -203,37 +202,36 @@
     <br />
 
 -   👨‍💻 **Instrutor de Curso**\
-    📆 Feb 2016 - Jun 2016\
-    📍 **Microlins Franchising** - Arapiraca/AL, Brazil
-    🛠️ **Skills**
-    <div>
-        <img
+ 📆 Feb 2016 - Jun 2016\
+ 📍 **Microlins Franchising** - Arapiraca/AL, Brazil
+🛠️ **Skills**
+<div>
+<img
             src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
             alt="Windows"
         />
-        <img
+<img
             src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"
             alt="Windows XP"
         />
-        <img
+<img
             src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"
             alt="Microsoft Word"
         />
-        <img
+<img
             src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
             alt="Microsoft Excel"
         />
-        <img
+<img
             src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"
             alt="Microsoft PowerPoint"
         />
-    </div>
-
+</div>
 </details>
 
-![division-line](./imgs/division-line-updated.jpg)
-
 ## HARD SKILLS
+
+![division-line](./imgs/division-line-updated.jpg)
 
 HTML, CSS, Bootstrap
 JavaScript ES6+, React, Redux
@@ -245,9 +243,9 @@ Intermediate English
 <br />
 <br />
 
-![division-line](./imgs/division-line-updated.jpg)
+## SOFT SKILLS
 
-## HARD SKILLS
+<div style="margin-top: -20px">![division-line](./imgs/division-line-updated.jpg)</div>
 
 Good interpersonal relationship for teamwork;
 Responsibility and autonomy to carry out work;
