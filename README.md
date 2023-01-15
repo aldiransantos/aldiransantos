@@ -1,35 +1,71 @@
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
-    <a href="mailto:contact.aldiransantos@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail" />
+    <a href="mailto:contact.aldiransantos@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
     </a>
       
-    <a href="https://www.linkedin.com/in/aldiransantos/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" />
+    <a href="https://www.linkedin.com/in/aldiransantos/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
       
-    <a href="https://aldiransantos.netlify.app/">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="website" />
+    <a href="https://aldiransantos.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" />
     </a>
       
-    <a href="https://bityli.com/desenvolvedor-frontend-aldiransantos">
-        <img src="./imgs/icon-curriculum.png" target="_blank" alt="curriculum" />
+    <a href="https://bityli.com/desenvolvedor-frontend-aldiransantos" target="_blank">
+        <img src="./imgs/icon-curriculum.png" alt="curriculum" />
     </a>
 </div>
 
 ![division-line](./imgs/division-line-updated.jpg)
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 RESUME</summary>
 
-### Education
+## Education
 
--   📖 **Computer Science**\
+-   📖 **Bachelor of Computer Science**\
     📆 2011 - 2016\
-    📍 **Federal University of Alagoas** - Arapiraca, Brazil
+    📍 **Federal University of Alagoas** - Arapiraca/AL, Brazil
 
-### Experience
+    ### Courses
+
+    <table>
+        <tr>
+            <td valign="top" width="50%">
+                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
+                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
+                <br>
+                <p>Description: </p>
+            </td>
+            <td valign="top" width="50%">
+                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
+                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
+                <br>
+                <p>Description: </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="50%">
+                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
+                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
+                <br>
+                <p>Description: </p>
+            </td>
+            <td valign="top" width="50%">
+                <h2 align="center"><a href="https://origamid.com/certificate/1f6d6ff8">React Course – Origamid</a></h2>
+                <a href="https://origamid.com/certificate/1f6d6ff8"><img width="100%" src="./imgs/" alt="React Course – Origamid" /></a>
+                <br>
+                <p>Description: </p>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <br />
+    ____
+
+## Work Experience
 
 -   👨‍💻 **Frontend Developer**\
     📆 Aug 2019 - Mar 2021\
@@ -194,3 +230,26 @@
     </div>
 
 </details>
+
+![division-line](./imgs/division-line-updated.jpg)
+
+## HARD SKILLS
+
+HTML, CSS, Bootstrap
+JavaScript ES6+, React, Redux
+WordPress, SEO
+UX/UI Design, Figma
+Scrum, Kanban
+Intermediate English
+
+<br />
+<br />
+
+![division-line](./imgs/division-line-updated.jpg)
+
+## HARD SKILLS
+
+Good interpersonal relationship for teamwork;
+Responsibility and autonomy to carry out work;
+Ability to plan and organize to meet deadlines;
+Emotional intelligence to deal with daily challenges
