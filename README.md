@@ -313,48 +313,48 @@
 
 ## HARD SKILLS
 
-    <div>
-        <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML5" 
-        />
-        <img
-            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-            alt="CSS3" 
-        />
-        <img
-            src="https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-            alt="JavaScript ES6+" 
-        />
-        <img
-            src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-            alt="ReactJS" 
-        />
-        <img
-            src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-            alt="Redux" 
-        />
-        <img
-            src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
-            alt="Wordpress"
-        />
-        <img
-            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-            alt="Git"
-        />
-        <img
-            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDklEQVR4nO2bWW7CMBCGAxJIpb1Ey3G6XQB6BhZ1ebT6UFWllyCovVM5ROkF0FdZGERCFojNknh+aV4wGXt+5p94EhwEMQDnwD0wAJ4rYn3gDmjF410BqAGPwB/VxQwY6ljjwdeBb/zBV4QEFr+8bxisa77KaZ8lh1ZgioOvuAlMUUjDHAiBd2Oh+Wzb8SKI+7SxvPUMNAEq4wvjSLVcSCbcYbwINnzaIGc9Ko+AMMHhZIfxIggdEzCxIWBuHCw3FJMECWSNF0Hcp43lrUflEVB1KCEAyQC8l0AXf9FZNkIdRxuPMpmOue7ylisoJVhIoHsCT20ObTrmuibgAX/RlX0Asg/A+42Qwl8okQAiAUQC+AslEkAkwLYS+AEuHfYgDeApZS79qq5R0O8VMN2HBEaugl9b7EXKXE1Lv2/7yoC2w+CbwEvSRA58q1IXwUAIsINkACIBtY8aMHf42lrbhymspakBY9uFJSy0XSYCQjdhl5eAucPX1tpe03Zsp0rAwSAEWEIyAJGAOlo7THo7Grk+qx0+VQmMdljA5zbXV7IdZnFvn+Zdn9UOm9tkIRIy5rcmoIpQQgCSAYgE8BdKJIBIAJEAnteAIf6irwm4xV9cawJa5giZb/gFzpYNhI8y6MXPDevjpL5gknR+uGZOjM8qnva9jeCDKBG6JujCqI+cH/s//a5Mx3Kz0vwa/gED1vXx4TcMDAAAAABJRU5ErkJggg=="
-            alt="UX/UI Design"
-        />
-        <img
-            src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-            alt="Figma"
-        />
-        <img
-            src="https://img.shields.io/badge/SCRUM-61c3d0?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQUlEQVR4nO2Zv2sUQRTHRyWo+AMSsPIH/opJEStNLKM2dqZJCsFe/Assot5V0cpoJQjir2A0YCWIEBF/xMZENDaGmEItjIqCRiUieh8ZMgnHc/ZuN7c7t3s3Hzg47vbtd97bNzNv3irl8Xg8Ho/HkyKABqAbGABeAT+A7+b7gPmvQdUiQBcwSXn0NV2qVgCWAqeIRgHo07Yq6xDd+WL6VA2kfUE4NQv0Ax3AKvPR38+a/2QmHFQZXvAmhUNvgbYSNjuBd8JmsmoLI7AZGAQ+AN+AW0BzSNtuy5NvC2Gng/BL2HYr1wCbgI+Wefk5TBDMtlZMfwTtc8L2mnINcJVghkLYTwib9gjae4TthHINc2kfxJcQ9jPCZnUE7TXCdka5BpguFQBgHXAIuAQ8AaZMZfcJuGNZ/VeW0csTnryLAFwpMYA/wF+icR7YFkMQkndeA2wB3hMvOmg3gPVqcUFw4/w8wFbgJvHzFTiiogXBrfMaoAl4GOCEnuOjQC/QCbQUVXYt5rfj5hq5HsxzMajIEUGoivONwMsAx3VxtD3CvZpN6tsCcRdYUSIIVXF+OTBiGawuS3dVcN924LXlvteBJSot8H8lphnWWRHTtLpnuf8JlQaA/ZZUHY7zQGIOSjIIv8OcFRIFWAaMW9K+MQGtJst0eFzVqQD0iAHpTNidoF6HJdsOJKVXFvMEihlUCWOpM24nrWkF2CieRiHs2b8SzBZZENViYKWY5ECOiicx6lB7TGgfdqVd6vzfqxyht0ChfcGV9gLAczGITuUIYJ/QfupKewFzji8mdKlbKebsUMwbV9oLWBqRoTs4laK1hPZPF6LHCE8u4bGsFXqzSepFDULOwThaheZ00pqp6sBYFsExF7rlMiHnUD8ntC+70k5FBwZ4JgIQ2C5LeiD5Kji/w1KCb1D1AjAknv4DVS8w9wpMHod7VD2AvSHyQjdlVK3DXEvsvnBeZ8JeVesQ3BQ9E3D9aVVjc37K4vwj3YoPsHG+LSe11Q0FvBgZL9V0rVZtsmjMq7FWU96eNEVO0KuxkXIdZ3F9fEEgu8SzJpBtKg8C2abygxrZxdkpNRXUtfOaunZeU9fOazJTAHk8Ho9HpYd/hXlI5A5O/egAAAAASUVORK5CYII="
-            alt="SCRUM"
-        />
-    </div>
+<div>
+    <img
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML5" 
+    />
+    <img
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        alt="CSS3" 
+    />
+    <img
+        src="https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+        alt="JavaScript ES6+" 
+    />
+    <img
+        src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        alt="ReactJS" 
+    />
+    <img
+        src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+        alt="Redux" 
+    />
+    <img
+        src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
+        alt="Wordpress"
+    />
+    <img
+        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+        alt="Git"
+    />
+    <img
+        src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDklEQVR4nO2bWW7CMBCGAxJIpb1Ey3G6XQB6BhZ1ebT6UFWllyCovVM5ROkF0FdZGERCFojNknh+aV4wGXt+5p94EhwEMQDnwD0wAJ4rYn3gDmjF410BqAGPwB/VxQwY6ljjwdeBb/zBV4QEFr+8bxisa77KaZ8lh1ZgioOvuAlMUUjDHAiBd2Oh+Wzb8SKI+7SxvPUMNAEq4wvjSLVcSCbcYbwINnzaIGc9Ko+AMMHhZIfxIggdEzCxIWBuHCw3FJMECWSNF0Hcp43lrUflEVB1KCEAyQC8l0AXf9FZNkIdRxuPMpmOue7ylisoJVhIoHsCT20ObTrmuibgAX/RlX0Asg/A+42Qwl8okQAiAUQC+AslEkAkwLYS+AEuHfYgDeApZS79qq5R0O8VMN2HBEaugl9b7EXKXE1Lv2/7yoC2w+CbwEvSRA58q1IXwUAIsINkACIBtY8aMHf42lrbhymspakBY9uFJSy0XSYCQjdhl5eAucPX1tpe03Zsp0rAwSAEWEIyAJGAOlo7THo7Grk+qx0+VQmMdljA5zbXV7IdZnFvn+Zdn9UOm9tkIRIy5rcmoIpQQgCSAYgE8BdKJIBIAJEAnteAIf6irwm4xV9cawJa5giZb/gFzpYNhI8y6MXPDevjpL5gknR+uGZOjM8qnva9jeCDKBG6JujCqI+cH/s//a5Mx3Kz0vwa/gED1vXx4TcMDAAAAABJRU5ErkJggg=="
+        alt="UX/UI Design"
+    />
+    <img
+        src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+        alt="Figma"
+    />
+    <img
+        src="https://img.shields.io/badge/SCRUM-61c3d0?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQUlEQVR4nO2Zv2sUQRTHRyWo+AMSsPIH/opJEStNLKM2dqZJCsFe/Assot5V0cpoJQjir2A0YCWIEBF/xMZENDaGmEItjIqCRiUieh8ZMgnHc/ZuN7c7t3s3Hzg47vbtd97bNzNv3irl8Xg8Ho/HkyKABqAbGABeAT+A7+b7gPmvQdUiQBcwSXn0NV2qVgCWAqeIRgHo07Yq6xDd+WL6VA2kfUE4NQv0Ax3AKvPR38+a/2QmHFQZXvAmhUNvgbYSNjuBd8JmsmoLI7AZGAQ+AN+AW0BzSNtuy5NvC2Gng/BL2HYr1wCbgI+Wefk5TBDMtlZMfwTtc8L2mnINcJVghkLYTwib9gjae4TthHINc2kfxJcQ9jPCZnUE7TXCdka5BpguFQBgHXAIuAQ8AaZMZfcJuGNZ/VeW0csTnryLAFwpMYA/wF+icR7YFkMQkndeA2wB3hMvOmg3gPVqcUFw4/w8wFbgJvHzFTiiogXBrfMaoAl4GOCEnuOjQC/QCbQUVXYt5rfj5hq5HsxzMajIEUGoivONwMsAx3VxtD3CvZpN6tsCcRdYUSIIVXF+OTBiGawuS3dVcN924LXlvteBJSot8H8lphnWWRHTtLpnuf8JlQaA/ZZUHY7zQGIOSjIIv8OcFRIFWAaMW9K+MQGtJst0eFzVqQD0iAHpTNidoF6HJdsOJKVXFvMEihlUCWOpM24nrWkF2CieRiHs2b8SzBZZENViYKWY5ECOiicx6lB7TGgfdqVd6vzfqxyht0ChfcGV9gLAczGITuUIYJ/QfupKewFzji8mdKlbKebsUMwbV9oLWBqRoTs4laK1hPZPF6LHCE8u4bGsFXqzSepFDULOwThaheZ00pqp6sBYFsExF7rlMiHnUD8ntC+70k5FBwZ4JgIQ2C5LeiD5Kji/w1KCb1D1AjAknv4DVS8w9wpMHod7VD2AvSHyQjdlVK3DXEvsvnBeZ8JeVesQ3BQ9E3D9aVVjc37K4vwj3YoPsHG+LSe11Q0FvBgZL9V0rVZtsmjMq7FWU96eNEVO0KuxkXIdZ3F9fEEgu8SzJpBtKg8C2abygxrZxdkpNRXUtfOaunZeU9fOazJTAHk8Ho9HpYd/hXlI5A5O/egAAAAASUVORK5CYII="
+        alt="SCRUM"
+    />
+</div>
 
 ## SOFT SKILLS
 
