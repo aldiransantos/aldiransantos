@@ -14,11 +14,11 @@
     </a>
       
     <a href="https://bityli.com/desenvolvedor-frontend-aldiransantos" target="_blank">
-        <img src="./imgs/icon-curriculum.png" alt="curriculum" />
+        <img src="https://img.shields.io/badge/CURRICULUM-002D57?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLklEQVR4nO2bTUgVURTHJyKysLIIXFTSl6C16DszhAp0UQQJLiLICgJRgjCwWgmt+rBoURT0gbqIFkXRIpKitFpGbdq0KZ5hoEn0hQVl9YtD58HwevOeT9/MuzNz/3DwvnfP3Ov8uPe+c8/ccRwrK6tcBcwBtgJNfptjmoC9wFcCkvY51TFBwHrgV1A37wJwBNhS6Pt3gItB3rwLwDHgG7Cp0AAeFRCA6AtQVUgAfQUGIPoMrI0zANEnYHWcAYiGgeVxBiB6D1TGGYBoAFgSWQDAZKA9i08CKIsqgGVANfAji99rYF4YAHRKQAMsdlk5sAN4lsb/BjBJbg6ozWIVpgM4pe3M17+1uumR/UUZMMUDQi/QOAYAYmtMBfAbmAns1GBmGrARGHVFeQuAeiamPlMBDGgbe4Btrja3Ay81uJHy0qgCSKTkE2RjdR4oSuljYaQBAKd1OiT1Drik31fHAUBXBp99UQbwVtu4ksFnt/4sRhLAd43qDmXwWQnUEFEAojpgLjDE/7qvAc8JIgzguSQ4Nbx9ojHACNANzJZNTR4SrkYDEPXIKND2imRaaFmG/xsmLuMBoJGgLIYHgTbgTh6zzcYBuKmbn+Ic+ikGNgO3wg6gRa+rAFqBo2rN+r0sinVabnbVtyZ3dsCBsAK4qtccTjO85XMJsEKtxMOnTdvoDCOAcmAD8MejXra/s9SknE5ybZWOoFABGFb/sx71I/qbfxw4o74fPXyT9R/CBKA/y9B9ofW3gQdafuzh26n1/WECkMiy8bmm9a9co+Wch2+X1ieiBKBd018/9XMpsD9OAHbp4jekqbBFmh6LDYCHmhOsBFbpaLgeJwCip8AMYDpwF2+FGkCHbnC8rEctk09HGAEM5rlfiRkGwwRAdE+TnfkwaYuwASiULADHjoDgp0BLytPe8ViNKzIM3RTozsOx2GyHIIwGYJIsAMeOAJ+EnQJ4rQHyWOtkgHbZtDWg3rdO0/8fpfqw1RgAJskCcOwIiNALE+NQr58ALmC+uv0EsM51sNFEjfr+Ngn/DjoG9tpcDpL0eqOvN5+UnvNpCOLFyTFaQ/LUiZWVlZOL/gLiquKXEeuregAAAABJRU5ErkJggg==" alt="curriculum" />
     </a>
 </div>
 
-![division-line](./imgs/division-line-updated.jpg)
+![division-line](./imgs/line.jpg)
 
 <details>
   <summary>📄 <b>RESUME</b></summary>
