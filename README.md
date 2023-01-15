@@ -122,7 +122,7 @@
 
 -   👨‍💻 **Frontend Developer**\
     📆 Aug 2019 - Mar 2021\
-    📍 **Zoop** - Rio de Janeiro/RJ, Brazil\
+    📍 <a href="https://zoop.com.br/" target="_blank"><b>Zoop</b></a> - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
     <div>
         <img
@@ -154,11 +154,15 @@
             alt="Xampp"
         />
         <img
+            src="https://img.shields.io/badge/SEO-205864?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAABGUlEQVR4nO2WSw6CMBCGSTScwXAUg1fhGMINxGtJvIOJW9EzsPoM2sWktEB5FBb8K9J59GNmmkwQrEFACFyBN/OrBPL6TglQH/hWLgF8/LmujwRYRG0AFXAGIuETC/vRMEexFp/V8cBB5apcAFLDBadGoMVuiU9dACJ1fm8rnclmiC/UdzQEoBgCoNtt/r1aoMhT2UNLC+IpASp1aWTqYdcMTAEg1eihjxZI3VwBtBlqxOt5AkMC0zvP+s6A5RlmLgBx2xBKu2kG5AxZ4jsBvGgDWE8FNrF0C/gvir71kgBLLKUXCRAqiHKRtbxNwA54qOCkh3+ifJ/APhgrHBO6As+SbLIqMDDRqCpg2YQnUtEHoJgR4LcdrUpf7P783dEmThwAAAAASUVORK5CYII="
+            alt="SEO"
+        />
+        <img
             src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"
             alt="Hotjar"
         />
         <img
-            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?logo=Material%20Design%20Icons&logoColor=FFFFFF&style=for-the-badge"
+            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDklEQVR4nO2bWW7CMBCGAxJIpb1Ey3G6XQB6BhZ1ebT6UFWllyCovVM5ROkF0FdZGERCFojNknh+aV4wGXt+5p94EhwEMQDnwD0wAJ4rYn3gDmjF410BqAGPwB/VxQwY6ljjwdeBb/zBV4QEFr+8bxisa77KaZ8lh1ZgioOvuAlMUUjDHAiBd2Oh+Wzb8SKI+7SxvPUMNAEq4wvjSLVcSCbcYbwINnzaIGc9Ko+AMMHhZIfxIggdEzCxIWBuHCw3FJMECWSNF0Hcp43lrUflEVB1KCEAyQC8l0AXf9FZNkIdRxuPMpmOue7ylisoJVhIoHsCT20ObTrmuibgAX/RlX0Asg/A+42Qwl8okQAiAUQC+AslEkAkwLYS+AEuHfYgDeApZS79qq5R0O8VMN2HBEaugl9b7EXKXE1Lv2/7yoC2w+CbwEvSRA58q1IXwUAIsINkACIBtY8aMHf42lrbhymspakBY9uFJSy0XSYCQjdhl5eAucPX1tpe03Zsp0rAwSAEWEIyAJGAOlo7THo7Grk+qx0+VQmMdljA5zbXV7IdZnFvn+Zdn9UOm9tkIRIy5rcmoIpQQgCSAYgE8BdKJIBIAJEAnteAIf6irwm4xV9cawJa5giZb/gFzpYNhI8y6MXPDevjpL5gknR+uGZOjM8qnva9jeCDKBG6JujCqI+cH/s//a5Mx3Kz0vwa/gED1vXx4TcMDAAAAABJRU5ErkJggg=="
             alt="UX/UI Design"
         />
         <img
@@ -198,7 +202,7 @@
 
 -   👨‍💻 **Frontend Developer**\
     📆 Sep 2018 - Feb 2019\
-    📍 **Kiutor** - Rio de Janeiro/RJ, Brazil\
+    📍 <a href="https://kitutor.com.br/" target="_blank"><b>Kitutor</b></a> - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
     <div>
         <img
@@ -222,7 +226,7 @@
             alt="Bootstrap"
         />
         <img
-            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?logo=Material%20Design%20Icons&logoColor=FFFFFF&style=for-the-badge"
+            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDklEQVR4nO2bWW7CMBCGAxJIpb1Ey3G6XQB6BhZ1ebT6UFWllyCovVM5ROkF0FdZGERCFojNknh+aV4wGXt+5p94EhwEMQDnwD0wAJ4rYn3gDmjF410BqAGPwB/VxQwY6ljjwdeBb/zBV4QEFr+8bxisa77KaZ8lh1ZgioOvuAlMUUjDHAiBd2Oh+Wzb8SKI+7SxvPUMNAEq4wvjSLVcSCbcYbwINnzaIGc9Ko+AMMHhZIfxIggdEzCxIWBuHCw3FJMECWSNF0Hcp43lrUflEVB1KCEAyQC8l0AXf9FZNkIdRxuPMpmOue7ylisoJVhIoHsCT20ObTrmuibgAX/RlX0Asg/A+42Qwl8okQAiAUQC+AslEkAkwLYS+AEuHfYgDeApZS79qq5R0O8VMN2HBEaugl9b7EXKXE1Lv2/7yoC2w+CbwEvSRA58q1IXwUAIsINkACIBtY8aMHf42lrbhymspakBY9uFJSy0XSYCQjdhl5eAucPX1tpe03Zsp0rAwSAEWEIyAJGAOlo7THo7Grk+qx0+VQmMdljA5zbXV7IdZnFvn+Zdn9UOm9tkIRIy5rcmoIpQQgCSAYgE8BdKJIBIAJEAnteAIf6irwm4xV9cawJa5giZb/gFzpYNhI8y6MXPDevjpL5gknR+uGZOjM8qnva9jeCDKBG6JujCqI+cH/s//a5Mx3Kz0vwa/gED1vXx4TcMDAAAAABJRU5ErkJggg=="
             alt="UX/UI Design"
         />
         <img
@@ -234,7 +238,7 @@
 
 -   👨‍💻 **Frontend Developer**\
     📆 Apr 2017 - Sep 2018\
-    📍 **MEDGRUPO** - Rio de Janeiro/RJ, Brazil\
+    📍 <a href="https://site.medgrupo.com.br/#/" target="_blank"><b>MEDGRUPO</b></a> - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
     <div>
         <img
@@ -266,7 +270,7 @@
 
 -   👨‍💻 **Instrutor de Curso**\
     📆 Feb 2016 - Jun 2016\
-    📍 **Microlins Franchising** - Arapiraca/AL, Brazil\
+    📍 <a href="https://www.microlins.com.br/" target="_blank"><b>Microlins</b></a> - Arapiraca/AL, Brazil\
     🛠️ **Skills**
     <div>
         <img
@@ -291,6 +295,29 @@
         />
     </div>
 
+-   👨‍💻 **Frontend Developer**\
+    📆 2015 - 2016 | **Freelancer**\
+    📍 <a href="https://fau.ufal.br/evento/pluris2016/" target="_blank"><b>Pluris 2016</b></a> - Arapiraca/AL, Brazil\
+    🛠️ **Skills**
+    <div>
+        <img
+            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            alt="HTML5" 
+        />
+        <img
+            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+            alt="CSS3" 
+        />
+        <img
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+            alt="JavaScript" 
+        />
+        <img
+            src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+            alt="jQuery" 
+        />
+    </div>
+
 </details>
 
 ## HARD SKILLS
@@ -307,4 +334,4 @@
 ✔️ Good interpersonal relationship for teamwork </br>
 ✔️ Responsibility and autonomy to carry out work </br>
 ✔️ Ability to plan and organize to meet deadlines </br>
-✔️ Emotional intelligence to deal with daily challenges 
+✔️ Emotional intelligence to deal with daily challenges
