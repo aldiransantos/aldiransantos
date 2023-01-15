@@ -38,17 +38,17 @@
             <table>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Total hours:</b> 36 hours</p>
+                        <b>Total hours:</b> 36 hours
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b target="_blank">Certificate</b></a></p>
+                        <a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
             </table>
@@ -58,17 +58,17 @@
             <table>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Total hours:</b> 74 hours</p>
+                        <b>Total hours:</b> 74 hours
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><a href="https://origamid.com/certificate/3507a5ea" target="_blank"><b target="_blank">Certificate</b></a></p>
+                        <a href="https://origamid.com/certificate/3507a5ea" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
             </table>
@@ -80,17 +80,17 @@
             <table>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a></p>
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Total hours:</b> 34 hours</p>
+                        <b>Total hours:</b> 34 hours
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><a href="https://origamid.com/certificate/388aaefb" target="_blank"><b target="_blank">Certificate</b></a></p>
+                        <a href="https://origamid.com/certificate/388aaefb" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
             </table>
@@ -100,17 +100,17 @@
             <table>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Plataform Course:</b> <a href="https://www.freecodecamp.org/">freeCodeCamp</a></p>
+                        <b>Plataform Course:</b> <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><b>Total hours:</b> 300 hours</p>
+                        <b>Total hours:</b> 300 hours
                     </td>
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <p><a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank"><b target="_blank">Certificate</b></a></p>
+                        <a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
             </table>
