@@ -44,25 +44,21 @@
       <p>36 hours</p>
     </td>
     <td valign="top" width="33.3%">
-        <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-        <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-        <p>36 hours</p>
+        <h3 align="center">React Course</h3>
         <table>
             <tr>
                 <td valign="top" width="33.3%">
-                <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-                <p>36 hours</p>
+                    <p align="center">Plataform Course</p>
+                    <a href="https://origamid.com/">Origamid</a>
                 </td>
                 <td valign="top" width="33.3%">
-                <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-                <p>36 hours</p>
+                    <p align="center">Total hours</p>
+                    <p>36 hours</p>
                 </td>
                 <td valign="top" width="33.3%">
-                <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-                <p>36 hours</p>
+                    <p>Certificate</p>
+                    <a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">Click here</a>
+                    <p>36 hours</p>
                 </td>
             </tr>
         </table>
