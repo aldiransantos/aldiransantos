@@ -118,7 +118,6 @@
     </tr>
 </table>
 
-
 ## Work Experience
 
 -   👨‍💻 **Frontend Developer**\
@@ -295,39 +294,42 @@
 </details>
 
 ## SKILLS
-<table>
-    <tr><div valign="top" width="50%">
-            ### HARD SKILLS 
-            <div>  
-                ✔️ HTML, CSS, Bootstrap\
-                ✔️ JavaScript ES6+, React, Redux\
-                ✔️ WordPress, SEO\
-                ✔️ UX/UI Design, Figma\
-                ✔️ Scrum, Kanban\
-                ✔️ Intermediate English
-            </div>
-        </div><div valign="top" width="50%">
-            ### SOFT SKILLS 
-            <div>  
-                ✔️ Good interpersonal relationship for teamwork\
-                ✔️ Responsibility and autonomy to carry out work\
-                ✔️ Ability to plan and organize to meet deadlines\
-                ✔️ Emotional intelligence to deal with daily challenges 
-            </div>
-        </div>
-    </tr>
-</table>
 
+<table>
+<tr><div valign="top" width="50%">
+
+### HARD SKILLS
+
+<div>  
+    ✔️ HTML, CSS, Bootstrap\
+    ✔️ JavaScript ES6+, React, Redux\
+    ✔️ WordPress, SEO\
+    ✔️ UX/UI Design, Figma\
+    ✔️ Scrum, Kanban\
+    ✔️ Intermediate English
+</div>
+</div><div valign="top" width="50%">
+
+### SOFT SKILLS
+
+<div>  
+    ✔️ Good interpersonal relationship for teamwork\
+    ✔️ Responsibility and autonomy to carry out work\
+    ✔️ Ability to plan and organize to meet deadlines\
+    ✔️ Emotional intelligence to deal with daily challenges 
+</div>
+</div>
+</tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue-apple-system%2CBlinkMacSystemFont%2C%26quot;Segoe+UI%26quot;%2C%26quot;Noto+Sans%26quot;%2CHelvetica%2CArial%2Csans-serif%2C%26quot;Apple+Color+Emoji%26quot;%2C%26quot;Segoe+UI+Emoji%26quot;&weight=600&size=24&pause=1000&color=F5002B&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -342,9 +344,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -363,9 +364,8 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -375,4 +375,4 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
