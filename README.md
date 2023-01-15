@@ -294,22 +294,31 @@
 
 </details>
 
-## HARD SKILLS
+## SKILLS
+<table>
+    <tr>
+        <td valign="top" width="50%">
+            ### HARD SKILLS 
+            <div>  
+                ✔️ HTML, CSS, Bootstrap\
+                ✔️ JavaScript ES6+, React, Redux\
+                ✔️ WordPress, SEO\
+                ✔️ UX/UI Design, Figma\
+                ✔️ Scrum, Kanban\
+                ✔️ Intermediate English
+            </div>
+        </td>
+        <td valign="top" width="50%">
+            ### SOFT SKILLS 
+            <div>  
+                ✔️ Good interpersonal relationship for teamwork\
+                ✔️ Responsibility and autonomy to carry out work\
+                ✔️ Ability to plan and organize to meet deadlines\
+                ✔️ Emotional intelligence to deal with daily challenges 
+            </div>
+        </td>
+    </tr>
+</table>
 
-✔️ HTML, CSS, Bootstrap\
-✔️ JavaScript ES6+, React, Redux\
-✔️ WordPress, SEO\
-✔️ UX/UI Design, Figma\
-✔️ Scrum, Kanban\
-✔️ Intermediate English
 
-## SOFT SKILLS
-
-✔️ Good interpersonal relationship for teamwork\
-✔️ Responsibility and autonomy to carry out work\
-✔️ Ability to plan and organize to meet deadlines\
-✔️ Emotional intelligence to deal with daily challenges
-
-____
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue-apple-system%2CBlinkMacSystemFont%2C%26quot;Segoe+UI%26quot;%2C%26quot;Noto+Sans%26quot;%2CHelvetica%2CArial%2Csans-serif%2C%26quot;Apple+Color+Emoji%26quot;%2C%26quot;Segoe+UI+Emoji%26quot;&weight=600&size=24&pause=1000&color=F5002B&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
