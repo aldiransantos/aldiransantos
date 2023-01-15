@@ -47,7 +47,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="33.3%">
+                    <td align="center" width="33.3%">
                         <a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
@@ -67,7 +67,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="33.3%">
+                    <td align="center" width="33.3%">
                         <a href="https://origamid.com/certificate/3507a5ea" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
@@ -89,7 +89,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="33.3%">
+                    <td align="center" width="33.3%">
                         <a href="https://origamid.com/certificate/388aaefb" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
@@ -110,7 +110,7 @@
                 </tr>
                 <tr>
                     <td align="center" width="33.3%">
-                        <a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank" rel="external"><b>Certificate</b></a>
+                        <a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank"><b>Certificate</b></a>
                     </td>
                 </tr>
             </table>
