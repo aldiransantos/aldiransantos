@@ -44,26 +44,28 @@
       <p>36 hours</p>
     </td>
     <td valign="top" width="33.3%">
-      <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-      <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-      <p>36 hours</p>
-        <tr>
-            <td valign="top" width="33.3%">
-            <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-            <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-            <p>36 hours</p>
-            </td>
-            <td valign="top" width="33.3%">
-            <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-            <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-            <p>36 hours</p>
-            </td>
-            <td valign="top" width="33.3%">
-            <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
-            <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
-            <p>36 hours</p>
-            </td>
-        </tr>
+        <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
+        <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+        <p>36 hours</p>
+        <table>
+            <tr>
+                <td valign="top" width="33.3%">
+                <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
+                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+                <p>36 hours</p>
+                </td>
+                <td valign="top" width="33.3%">
+                <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
+                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+                <p>36 hours</p>
+                </td>
+                <td valign="top" width="33.3%">
+                <h3 align="center"><a href="https://origamid.com/certificate/1f6d6ff8" target="_blank">React Course</a></h3>
+                <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
+                <p>36 hours</p>
+                </td>
+            </tr>
+        </table>
     </td>
   </tr>
 </table>
