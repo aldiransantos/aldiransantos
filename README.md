@@ -33,19 +33,19 @@
 
     <table>
         <tr>
-            <td valign="top" width="33.3%">
+            <td valign="top" width="33%">
                 <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
                 <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
                 <p>36 hours</p>
             </td>
 
-            <td valign="top" width="33.3%">
+            <td valign="top" width="33%">
                 <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
                 <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
                 <p>36 hours</p>
             </td>
 
-            <td valign="top" width="33.3%">
+            <td valign="top" width="33%">
                 <a href="https://origamid.com/certificate/1f6d6ff8">Origamid</a>
                 <a href="https://origamid.com/certificate/1f6d6ff8">React Course</a>
                 <p>36 hours</p>
