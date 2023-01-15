@@ -1,7 +1,8 @@
 <style>
-    .heading2 {
-        color: #030129;
-        margin-bottom: -32px;
+    .markdown-body h2,
+    #user-content-identifier {
+        color: #030129 !important;
+        margin-bottom: -32px !important;
     }
 </style>
 
@@ -236,7 +237,7 @@
 </div>
 </details>
 
-<h2 id="identifier" class="heading2">HARD SKILLS</h2>
+<h2 style="color: #030129 !important; margin-bottom: -32px !important;">HARD SKILLS</h2>
 
 <p dir="auto">
     <img src="./imgs/division-line-updated.jpg" alt="division-line" style="max-width: 100%; margin-top: -33px;">
