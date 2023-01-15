@@ -33,7 +33,7 @@
 
 <table>
     <tr>
-        <td valign="top" width="50%">
+        <td valign="bottom" width="50%">
             <h3 align="center">React Course</h3>
             <table>
                 <tr>
@@ -96,7 +96,7 @@
             </table>
         </td>
         <td width="50%">
-            <h3 align="center">UI Design for Beginners</h3>
+            <h3 align="bottom">Responsive Web Design</h3>
             <table>
                 <tr>
                     <td width="33.3%">
@@ -118,7 +118,6 @@
     </tr>
 </table>
 
-    <br />
 
 ## Work Experience
 
