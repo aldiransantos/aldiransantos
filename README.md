@@ -21,10 +21,7 @@
 ![division-line](./imgs/division-line-updated.jpg)
 
 <details>
-  <summary>📃 <b>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue-apple-system%2CBlinkMacSystemFont%2C%26quot;Segoe+UI%26quot;%2C%26quot;Noto+Sans%26quot;%2CHelvetica%2CArial%2Csans-serif%2C%26quot;Apple+Color+Emoji%26quot;%2C%26quot;Segoe+UI+Emoji%26quot;&weight=600&size=24&pause=1000&color=F5002B&width=435&lines=RESUME)](https://git.io/typing-svg)
-</b></summary>
+  <summary>📄 <b>RESUME</b></summary>
 
 ## Education
 
@@ -161,7 +158,7 @@
             alt="Hotjar"
         />
         <img
-            src="./imgs/ux-ui-design.png"
+            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?logo=Material%20Design%20Icons&logoColor=FFFFFF&style=for-the-badge"
             alt="UX/UI Design"
         />
         <img
@@ -225,7 +222,7 @@
             alt="Bootstrap"
         />
         <img
-            src="./imgs/ux-ui-design.png"
+            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?logo=Material%20Design%20Icons&logoColor=FFFFFF&style=for-the-badge"
             alt="UX/UI Design"
         />
         <img
