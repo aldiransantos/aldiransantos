@@ -299,9 +299,10 @@
 <tr>
 <td valign="top" width="50%">
 
+<div>  
+
 ### HARD SKILLS
 
-<div>  
     ✔️ HTML, CSS, Bootstrap </br>
     ✔️ JavaScript ES6+, React, Redux </br>
     ✔️ WordPress, SEO </br>
@@ -312,18 +313,19 @@
 
 </td>
 
-<div valign="top" width="50%">
+<td valign="top" width="50%">
+
+<div>  
 
 ### SOFT SKILLS
 
-<td>  
     ✔️ Good interpersonal relationship for teamwork </br>
     ✔️ Responsibility and autonomy to carry out work </br>
     ✔️ Ability to plan and organize to meet deadlines </br>
     ✔️ Emotional intelligence to deal with daily challenges 
-</td>
-
 </div>
+
+</td>
 </tr>
 </table>
 
