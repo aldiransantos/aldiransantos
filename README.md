@@ -25,7 +25,7 @@
 
 ## Education
 
--   📖 **Bachelor of Computer Science**\
+-   📖 **Bachelor's Degree in Computer Science**\
     📆 2011 - 2016\
     📍 **Federal University of Alagoas** - Arapiraca/AL, Brazil
 
