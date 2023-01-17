@@ -187,7 +187,7 @@
     </div>
     <br />
 
-    -   👨‍💻 **Frontend Developer**\
+-   👨‍💻 **Frontend Developer**\
     📆 2019 | **Freelancer**\
     📍 <a href="https://www.varilux.com.br/desafio-varilux/" target="_blank"><b>Desafio Varilux</b></a> - Rio de Janeio/RJ, Brazil\
     🛠️ **Skills**
