@@ -20,8 +20,8 @@
 
 ![line](./imgs/line.jpg)
 
-<details>
-  <summary>📄 <b>RESUME</b></summary>
+
+# 📄RESUME
 
 ## Education
 
@@ -338,7 +338,6 @@
     </div>
 
 ![line](./imgs/line.jpg)
-</details>
 
 ## HARD SKILLS
 
