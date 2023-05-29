@@ -21,8 +21,6 @@
 ![line](./imgs/line.jpg)
 
 
-# 📄RESUME
-
 ## Education
 
 -   📖 **Bachelor's Degree in Computer Science**\
@@ -339,7 +337,7 @@
 
 ![line](./imgs/line.jpg)
 
-## HARD SKILLS
+## Hard Skills
 
 <div>
     <img
@@ -384,7 +382,7 @@
     />
 </div>
 
-## SOFT SKILLS
+## Soft Skills
 
 - Good interpersonal relationship for teamwork </br>
 - Responsibility and autonomy to carry out work </br>
