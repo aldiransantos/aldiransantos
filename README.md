@@ -32,6 +32,46 @@
 <table align="center">
     <tr>
         <td align="center" width="50%">
+            <h3 align="center">Vue.js 2 Course</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <b>Total hours:</b> 44 hours
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="33.3%">
+                        <a href="https://www.origamid.com/certificate/5517b315" target="_blank"><b target="_blank">Certificate</b></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" width="50%">
+            <h3 align="center">WordPress REST API</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <b>Total hours:</b> 4 hours
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="33.3%">
+                        <a href="https://www.origamid.com/certificate/dfbc73ae" target="_blank"><b target="_blank">Certificate</b></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" width="50%">
             <h3 align="center">React Course</h3>
             <table>
                 <tr>
