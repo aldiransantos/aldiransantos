@@ -51,6 +51,8 @@
                 </tr>
             </table>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="50%">
             <h3 align="center">WordPress REST API</h3>
             <table>
