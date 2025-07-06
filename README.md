@@ -19,7 +19,7 @@
 
 -   👨‍💻 **Frontend Developer & UI Designer**\
     📆 Oct 2023 - Actually\
-    📍 <a href="https://www.microlins.com.br/" target="_blank"><b>Microlins</b></a> - Arapiraca/AL, Brazil\
+    📍 <a href="https://www.visual.com.br/" target="_blank"><b>Visual Sistemas</b></a> - Remote\
     🛠️ **Skills**
     <div>
         <img
