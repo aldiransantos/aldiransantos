@@ -26,7 +26,8 @@
 
 ![line](./imgs/line.jpg)
 
-### Courses
+
+## Courses
 
 <table align="center">
     <tr>
