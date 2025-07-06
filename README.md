@@ -231,7 +231,7 @@
     </div>
     <br />
 
--   👨‍💻 **Couse Instructor**\
+-   👨‍💻 **Course Instructor**\
     📆 Feb 2016 - Jun 2016\
     📍 <a href="https://www.microlins.com.br/" target="_blank"><b>Microlins</b></a> - Arapiraca/AL, Brazil\
     \
