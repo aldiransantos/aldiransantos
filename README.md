@@ -44,7 +44,7 @@
             alt="Aurelia"
         />
         <img
-            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"
             alt="Git"
         />
         <img
@@ -85,7 +85,7 @@
             alt="jQuery"
         />
         <img
-            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"
             alt="Git"
         />
         <img
@@ -456,7 +456,7 @@
         alt="Wordpress"
     />
     <img
-        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+        src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"
         alt="Git"
     />
     <img
