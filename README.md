@@ -39,8 +39,8 @@
             src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
             alt="JavaScript"
         />
-            src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXVyZWxpYTwvdGl0bGU+PHBhdGggZD0iTTE1LjcxNiA0LjYzNkwxMy40OSA2LjEyMmwtMi4yOTUtMy40MzkgMi4yMjgtMS40ODZ6TTE3LjUyNyAxNC45NjdsMy44MDYgNS43MDMtNC41MzMgMy4wMjUtMy44MDYtNS43MDMtLjY2NC0uOTk1IDQuNTMzLTMuMDI1ek0xMS44MTcgMTguNzc3bC44MzggMS4yNTYtMy40NSAyLjMwMy0xLjUwMy0yLjI1Ljc1NC0uNTA0IDIuNjk3LTEuOHpNMTkuNDEzIDEyLjI3bC45NjgtLjY0NSAxLjUwMSAyLjI1LTIuMjI3IDEuNDg3LS44MzgtMS4yNTYgMS4yNi0uODR6bS0uNTk2IDEuODM2bC0uNjY0LS45OTUgMS4yNi0uODQuNjY0Ljk5NHpNMy43OTIgMTIuNTkzbC0uNzUzLjUwM0wuNzQ0IDkuNjU3bDMuNDUtMi4zMDIgMS42MSAyLjQxLTIuNjk4IDEuOCAyLjY5Ny0xLjguNjg2IDEuMDI5ek0xMS41MTMgNS45NTRsLjY4NyAxLjAyOS00LjUzNCAzLjAyNUw2Ljk4IDguOTggMy4yMSAzLjMzIDcuNzQyLjMwNXpNMTQuNzQ5IDUuMjgybC0xLjI2Ljg0LS42ODYtMS4wMjgtMS42MDktMi40MSAyLjIyOC0xLjQ4NyAyLjI5NSAzLjQzOXpNOS4xMiAyMC41NzdsLS42NjQtLjk5NSAyLjY5Ny0xLjguNjY0Ljk5NXpNMTguODE3IDE0LjEwNmwtLjY2NC0uOTk1IDEuMjYtLjg0LjY2NC45OTR6TTMuNzkyIDEyLjU5M2wtLjY4Ni0xLjAyOCAyLjY5Ny0xLjguNjg2IDEuMDI5ek0xMy40ODkgNi4xMjJsLS42ODYtMS4wMjggMS4yNi0uODQuNjg2IDEuMDI4ek0xNy41MjcgMTQuOTY3bC00LjUzMyAzLjAyNS0uNjY0LS45OTUgNC41MzMtMy4wMjV6TTExLjUxMyA1Ljk1NGwuNjg3IDEuMDI5LTQuNTM0IDMuMDI1TDYuOTggOC45OHpNMi41MDcgNS4xMzJsLjg1NSAxLjI4My0xLjI4Mi44NTUtLjg1Ni0xLjI4MnpNNy4xMjcgMjAuNTA1bC44NTYgMS4yODMtMS4yODIuODU1LS44NTYtMS4yODJ6TTMuNzU0IDIxLjc5N0wwIDE2LjEyNSAyMC4wNjMgMi43MDYgMjQgOC4yODd6Ii8+PC9zdmc+"
-            alt="UX/UI Design"
+            src="https://img.shields.io/badge/Aurelia-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;"
+            alt="Aurelia"
         />
         <img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
