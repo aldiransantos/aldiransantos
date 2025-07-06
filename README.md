@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://aldiransantos.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Ansible-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" />
     </a>    
     <a href="mailto:contact.aldiransantos@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
