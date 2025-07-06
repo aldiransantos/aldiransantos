@@ -20,6 +20,7 @@
 -   👨‍💻 **Frontend Developer & UI Designer**\
     📆 Oct 2023 - Actually\
     📍 <a href="https://www.visual.com.br/" target="_blank"><b>Visual Sistemas</b></a> - Remote\
+    \
     🛠️ **Skills**
     <div>
         <img
@@ -29,6 +30,10 @@
         <img
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
             alt="CSS3"
+        />
+        <img
+            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+            alt="Bootstrap"
         />
         <img
             src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
@@ -41,6 +46,10 @@
         <img
             src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
             alt="Figma"
+        />
+        <img
+            src="https://img.shields.io/badge/SCRUM-61c3d0?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQUlEQVR4nO2Zv2sUQRTHRyWo+AMSsPIH/opJEStNLKM2dqZJCsFe/Assot5V0cpoJQjir2A0YCWIEBF/xMZENDaGmEItjIqCRiUieh8ZMgnHc/ZuN7c7t3s3Hzg47vbtd97bNzNv3irl8Xg8Ho/HkyKABqAbGABeAT+A7+b7gPmvQdUiQBcwSXn0NV2qVgCWAqeIRgHo07Yq6xDd+WL6VA2kfUE4NQv0Ax3AKvPR38+a/2QmHFQZXvAmhUNvgbYSNjuBd8JmsmoLI7AZGAQ+AN+AW0BzSNtuy5NvC2Gng/BL2HYr1wCbgI+Wefk5TBDMtlZMfwTtc8L2mnINcJVghkLYTwib9gjae4TthHINc2kfxJcQ9jPCZnUE7TXCdka5BpguFQBgHXAIuAQ8AaZMZfcJuGNZ/VeW0csTnryLAFwpMYA/wF+icR7YFkMQkndeA2wB3hMvOmg3gPVqcUFw4/w8wFbgJvHzFTiiogXBrfMaoAl4GOCEnuOjQC/QCbQUVXYt5rfj5hq5HsxzMajIEUGoivONwMsAx3VxtD3CvZpN6tsCcRdYUSIIVXF+OTBiGawuS3dVcN924LXlvteBJSot8H8lphnWWRHTtLpnuf8JlQaA/ZZUHY7zQGIOSjIIv8OcFRIFWAaMW9K+MQGtJst0eFzVqQD0iAHpTNidoF6HJdsOJKVXFvMEihlUCWOpM24nrWkF2CieRiHs2b8SzBZZENViYKWY5ECOiicx6lB7TGgfdqVd6vzfqxyht0ChfcGV9gLAczGITuUIYJ/QfupKewFzji8mdKlbKebsUMwbV9oLWBqRoTs4laK1hPZPF6LHCE8u4bGsFXqzSepFDULOwThaheZ00pqp6sBYFsExF7rlMiHnUD8ntC+70k5FBwZ4JgIQ2C5LeiD5Kji/w1KCb1D1AjAknv4DVS8w9wpMHod7VD2AvSHyQjdlVK3DXEvsvnBeZ8JeVesQ3BQ9E3D9aVVjc37K4vwj3YoPsHG+LSe11Q0FvBgZL9V0rVZtsmjMq7FWU96eNEVO0KuxkXIdZ3F9fEEgu8SzJpBtKg8C2abygxrZxdkpNRXUtfOaunZeU9fOazJTAHk8Ho9HpYd/hXlI5A5O/egAAAAASUVORK5CYII="
+            alt="SCRUM"
         />
     </div>
 
@@ -113,6 +122,7 @@
 -   👨‍💻 **Frontend Developer**\
     📆 2019 | **Freelancer**\
     📍 <a href="https://www.varilux.com.br/desafio-varilux/" target="_blank"><b>Desafio Varilux</b></a> - Rio de Janeio/RJ, Brazil\
+    \
     🛠️ **Skills**
     <div>
         <img
@@ -141,6 +151,7 @@
 -   👨‍💻 **Web Developer**\
     📆 Sep 2018 - Feb 2019\
     📍 <a href="https://kitutor.com.br/" target="_blank"><b>Kitutor</b></a> - Rio de Janeiro/RJ, Brazil\
+    \
     🛠️ **Skills**
     <div>
         <img
@@ -173,6 +184,7 @@
 -   👨‍💻 **Frontend Developer**\
     📆 Apr 2017 - Sep 2018\
     📍 <a href="https://site.medgrupo.com.br/#/" target="_blank"><b>MEDGRUPO</b></a> - Rio de Janeiro/RJ, Brazil\
+    \
     🛠️ **Skills**
     <div>
         <img
@@ -213,6 +225,7 @@
 -   👨‍💻 **Couse Instructor**\
     📆 Feb 2016 - Jun 2016\
     📍 <a href="https://www.microlins.com.br/" target="_blank"><b>Microlins</b></a> - Arapiraca/AL, Brazil\
+    \
     🛠️ **Skills**
     <div>
         <img
@@ -240,6 +253,7 @@
 -   👨‍💻 **Frontend Developer**\
     📆 2015 - 2016 | **Freelancer**\
     📍 <a href="https://fau.ufal.br/evento/pluris2016/" target="_blank"><b>Pluris 2016</b></a> - Arapiraca/AL, Brazil\
+    \
     🛠️ **Skills**
     <div>
         <img
