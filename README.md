@@ -1,4 +1,4 @@
-![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
+![Aldiran Santos - Frontend Developer](./imgs/cover-web.png)
 
 <div align="center">
     <a href="https://aldiransantos.vercel.app/" target="_blank">
