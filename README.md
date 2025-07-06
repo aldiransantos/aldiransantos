@@ -15,11 +15,10 @@
     </a>
 </div>
 
+# Work Experience
 ![line](./imgs/line.jpg)
 
-## Work Experience
-
--   👨‍💻 **Frontend Developer**\
+-   👨‍💻 **Desenvolvedor Front-End**\
     📆 Aug 2019 - Mar 2021\
     📍 <a href="https://zoop.com.br/" target="_blank"><b>Zoop</b></a> - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
@@ -84,7 +83,7 @@
     </div>
     <br />
 
--   👨‍💻 **Frontend Developer**\
+-   👨‍💻 **Desenvolvedor Front-End**\
     📆 2019 | **Freelancer**\
     📍 <a href="https://www.varilux.com.br/desafio-varilux/" target="_blank"><b>Desafio Varilux</b></a> - Rio de Janeio/RJ, Brazil\
     🛠️ **Skills**
@@ -112,7 +111,7 @@
     </div>
     <br />
 
--   👨‍💻 **Frontend Developer**\
+-   👨‍💻 **Desenvolvedor Web**\
     📆 Sep 2018 - Feb 2019\
     📍 <a href="https://kitutor.com.br/" target="_blank"><b>Kitutor</b></a> - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
@@ -144,7 +143,7 @@
     </div>
     <br />
 
--   👨‍💻 **Frontend Developer**\
+-   👨‍💻 **Desenvolvedor Front-End**\
     📆 Apr 2017 - Sep 2018\
     📍 <a href="https://site.medgrupo.com.br/#/" target="_blank"><b>MEDGRUPO</b></a> - Rio de Janeiro/RJ, Brazil\
     🛠️ **Skills**
@@ -211,7 +210,7 @@
         />
     </div>
 
--   👨‍💻 **Frontend Developer**\
+-   👨‍💻 **Desenvolvedor Front-End**\
     📆 2015 - 2016 | **Freelancer**\
     📍 <a href="https://fau.ufal.br/evento/pluris2016/" target="_blank"><b>Pluris 2016</b></a> - Arapiraca/AL, Brazil\
     🛠️ **Skills**
