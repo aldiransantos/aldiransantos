@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" />
     </a>    
     <a href="mailto:contact.aldiransantos@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+        <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
     </a>    
     <a href="https://www.linkedin.com/in/aldiransantos/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -24,7 +24,7 @@
     🛠️ **Skills**
     <div>
         <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5"
         />
         <img
@@ -69,7 +69,7 @@
     🛠️ **Skills**
     <div>
         <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5"
         />
         <img
@@ -135,7 +135,7 @@
     🛠️ **Skills**
     <div>
         <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" 
         />
         <img
@@ -164,7 +164,7 @@
     🛠️ **Skills**
     <div>
         <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" 
         />
         <img
@@ -197,7 +197,7 @@
     🛠️ **Skills**
     <div>
         <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" 
         />
         <img
@@ -266,7 +266,7 @@
     🛠️ **Skills**
     <div>
         <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" 
         />
         <img
@@ -432,7 +432,7 @@
 
 <div>
     <img
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"
         alt="HTML5" 
     />
     <img
