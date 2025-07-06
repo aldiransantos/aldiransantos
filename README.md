@@ -23,9 +23,9 @@
 
 ## Education
 
--   📖 **Bachelor's Degree in Computer Science**\
-    📆 2011 - 2016\
-    📍 **Federal University of Alagoas** - Arapiraca/AL, Brazil
+📖 **Bachelor's Degree in Computer Science**\
+📆 2011 - 2016\
+📍 **Federal University of Alagoas** - Arapiraca/AL, Brazil
 
     ### Courses
 
