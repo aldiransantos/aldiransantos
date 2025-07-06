@@ -15,7 +15,7 @@
     </a>
 </div>
 
-# Work Experience
+### Work Experience
 ![line](./imgs/line.jpg)
 
 -   👨‍💻 **Desenvolvedor Front-End**\
