@@ -404,9 +404,6 @@
 ![line](./imgs/line.jpg)
 
 
-
-![line](./imgs/line.jpg)
-
 ## Hard Skills
 
 <div>
