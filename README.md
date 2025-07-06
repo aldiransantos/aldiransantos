@@ -40,6 +40,14 @@
             alt="JavaScript"
         />
         <img
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+            alt="JavaScript"
+        />
+        <img
+            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            alt="Git"
+        />
+        <img
             src="https://img.shields.io/badge/UX/UI%20DESIGN-C67DFF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACDklEQVR4nO2bWW7CMBCGAxJIpb1Ey3G6XQB6BhZ1ebT6UFWllyCovVM5ROkF0FdZGERCFojNknh+aV4wGXt+5p94EhwEMQDnwD0wAJ4rYn3gDmjF410BqAGPwB/VxQwY6ljjwdeBb/zBV4QEFr+8bxisa77KaZ8lh1ZgioOvuAlMUUjDHAiBd2Oh+Wzb8SKI+7SxvPUMNAEq4wvjSLVcSCbcYbwINnzaIGc9Ko+AMMHhZIfxIggdEzCxIWBuHCw3FJMECWSNF0Hcp43lrUflEVB1KCEAyQC8l0AXf9FZNkIdRxuPMpmOue7ylisoJVhIoHsCT20ObTrmuibgAX/RlX0Asg/A+42Qwl8okQAiAUQC+AslEkAkwLYS+AEuHfYgDeApZS79qq5R0O8VMN2HBEaugl9b7EXKXE1Lv2/7yoC2w+CbwEvSRA58q1IXwUAIsINkACIBtY8aMHf42lrbhymspakBY9uFJSy0XSYCQjdhl5eAucPX1tpe03Zsp0rAwSAEWEIyAJGAOlo7THo7Grk+qx0+VQmMdljA5zbXV7IdZnFvn+Zdn9UOm9tkIRIy5rcmoIpQQgCSAYgE8BdKJIBIAJEAnteAIf6irwm4xV9cawJa5giZb/gFzpYNhI8y6MXPDevjpL5gknR+uGZOjM8qnva9jeCDKBG6JujCqI+cH/s//a5Mx3Kz0vwa/gED1vXx4TcMDAAAAABJRU5ErkJggg=="
             alt="UX/UI Design"
         />
@@ -52,6 +60,7 @@
             alt="SCRUM"
         />
     </div>
+    <br />
 
 -   👨‍💻 **Frontend Developer**\
     📆 Aug 2019 - Mar 2021\
