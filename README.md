@@ -4,10 +4,10 @@
     <a href="https://aldiransantos.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" />
     </a>    
-    <a href="mailto:contact.aldiransantos@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contact.aldiransantos@gmail.com.com&amp;su=Hello%F0%9F%91%8B" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
     </a>    
-    <a href="https://www.linkedin.com/in/aldiransantos/" target="_blank">
+    <a href="https://www.linkedin.com/in/aldiransantosdev/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>    
     <a href="https://aldiransantos.vercel.app/resume.pdf" target="_blank">
