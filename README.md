@@ -24,6 +24,8 @@
 📆 **2011 - 2016**\
  📍 **Federal University of Alagoas** - Arapiraca/AL, Brazil
 
+![line](./imgs/line.jpg)
+
 ### Courses
 
 <table align="center">
