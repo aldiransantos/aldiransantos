@@ -47,6 +47,7 @@
 -   👨‍💻 **Frontend Developer**\
     📆 Aug 2019 - Mar 2021\
     📍 <a href="https://zoop.com.br/" target="_blank"><b>Zoop</b></a> - Rio de Janeiro/RJ, Brazil\
+    \
     🛠️ **Skills**
     <div>
         <img
