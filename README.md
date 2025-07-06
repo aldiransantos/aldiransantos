@@ -40,7 +40,7 @@
             alt="JavaScript"
         />
         <img
-            src="https://img.shields.io/badge/aurelia-FF4DA1?style=for-the-badge&logoColor=white"
+            src="https://img.shields.io/badge/Aurelia-FF4DA1?style=for-the-badge&logo=aurelia&logoColor=white"
             alt="Aurelia"
         />
         <img
