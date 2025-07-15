@@ -1,7 +1,7 @@
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdvbnVzb2pqeTNqaWIwZHhibjBkdGdjYTJ0NDQ4c3Z1azdxMGplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NzQSHl01OBLkk/giphy.gif)"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdvbnVzb2pqeTNqaWIwZHhibjBkdGdjYTJ0NDQ4c3Z1azdxMGplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NzQSHl01OBLkk/giphy.gif"  />
 </div>
 
 <div align="center">
