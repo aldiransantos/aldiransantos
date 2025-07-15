@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
     <a href="https://aldiransantos.vercel.app/" target="_top"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" /></a>    
     <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contact.aldiransantos@gmail.com.com&amp;su=Hello%F0%9F%91%8B" target="_blank"><img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>    
     <a href="https://www.linkedin.com/in/aldiransantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>    
