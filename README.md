@@ -303,68 +303,6 @@
 <table align="center">
     <tr>
         <td align="center" width="50%">
-            <h3 align="center">Vue.js 2 Course</h3>
-            <table>
-                <tr>
-                    <td width="33.3%">
-                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="33.3%">
-                        <b>Total hours:</b> 44 hours
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="33.3%">
-                        <a href="https://www.origamid.com/certificate/5517b315" target="_blank"><b target="_blank">Certificate</b></a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td align="center" width="50%">
-            <h3 align="center">WordPress REST API</h3>
-            <table>
-                <tr>
-                    <td width="33.3%">
-                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="33.3%">
-                        <b>Total hours:</b> 4 hours
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="33.3%">
-                        <a href="https://www.origamid.com/certificate/dfbc73ae" target="_blank"><b target="_blank">Certificate</b></a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
-            <h3 align="center">React Course</h3>
-            <table>
-                <tr>
-                    <td width="33.3%">
-                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="33.3%">
-                        <b>Total hours:</b> 36 hours
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="33.3%">
-                        <a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b target="_blank">Certificate</b></a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td align="center" width="50%">
             <h3 align="center">JavaScript ES6 Course</h3>
             <table>
                 <tr>
@@ -384,10 +322,8 @@
                 </tr>
             </table>
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
-            <h3 align="center">UI Design for Beginners</h3>
+        <td align="center" width="33.3%">
+            <h3 align="center">React Course</h3>
             <table>
                 <tr>
                     <td width="33.3%">
@@ -396,17 +332,59 @@
                 </tr>
                 <tr>
                     <td width="33.3%">
-                        <b>Total hours:</b> 34 hours
+                        <b>Total hours:</b> 36 hours
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="33.3%">
-                        <a href="https://origamid.com/certificate/388aaefb" target="_blank"><b target="_blank">Certificate</b></a>
+                        <a href="https://origamid.com/certificate/1f6d6ff8" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
             </table>
         </td>
-        <td align="center" width="50%">
+        <td align="center" width="33.3%">
+            <h3 align="center">Vue.js 2 Course</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <b>Total hours:</b> 44 hours
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="33.3%">
+                        <a href="https://www.origamid.com/certificate/5517b315" target="_blank"><b target="_blank">Certificate</b></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="33.3%">
+            <h3 align="center">WordPress REST API</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <b>Total hours:</b> 4 hours
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="33.3%">
+                        <a href="https://www.origamid.com/certificate/dfbc73ae" target="_blank"><b target="_blank">Certificate</b></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" width="33.3%"">
             <h3 align="center">Responsive Web Design</h3>
             <table>
                 <tr>
@@ -422,6 +400,26 @@
                 <tr>
                     <td align="center" width="33.3%">
                         <a href="https://freecodecamp.org/certification/aldiransantos/responsive-web-design" target="_blank"><b>Certificate</b></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" width="33.3%"">
+            <h3 align="center">Advanced UI Design</h3>
+            <table>
+                <tr>
+                    <td width="33.3%">
+                        <b>Plataform Course:</b> <a href="https://origamid.com/">Origamid</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="33.3%">
+                        <b>Total hours:</b> 30 hours
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="33.3%">
+                        <a href="https://www.origamid.com/certificate/d2693ee1" target="_blank"><b target="_blank">Certificate</b></a>
                     </td>
                 </tr>
             </table>
