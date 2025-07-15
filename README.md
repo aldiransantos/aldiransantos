@@ -1,5 +1,5 @@
 <h3 align="center">Hey! 👋</h3>
-<h4 align="center">My name is Aldiran and I'm a</h4>
+<h4 align="center">My name is Aldiran Santos and I'm a</h4>
 <h1 align="center">Frontend Developer & UI Designer</h1>
 
 <div align="center">
