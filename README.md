@@ -1,7 +1,7 @@
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
-    <a href="https://aldiransantos.vercel.app/" target="_blank">
+    <a href="https://aldiransantos.vercel.app/" target="_parent">
         <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" />
     </a>    
     <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contact.aldiransantos@gmail.com.com&amp;su=Hello%F0%9F%91%8B" target="_blank">
