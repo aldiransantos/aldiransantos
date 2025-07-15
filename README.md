@@ -321,7 +321,7 @@
                     </td>
                 </tr>
             </table>
-            ###
+            </br>
         </td>
         <td align="center" width="33.3%">
             <h3 align="center">React Course</h3>
