@@ -207,6 +207,10 @@
             alt="CSS3"
         />
         <img
+            src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+            alt="Sass"
+        />
+        <img
             src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
             alt="JavaScript" 
         />
@@ -440,6 +444,18 @@
     <img
         src="https://img.shields.io/badge/CSS3-1c76b8?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEK0lEQVR4nO2cX4hVVRSHl9OoiBSkiBREfyQoYaCIsCgo+stAJgTmk4GD9VRBqPhgUFQPUQ+W9FI9pNZD9lAKUUFRFKEQ6YOUBHXrZYzCyUJloKK+OHLUSwxu3eees39r7vrgvAwz666119l3zjl7f8csCIIgCIIgCIIgCIIgCIYE4ATBKY4rNKR3Op3gB4WG7Is+nGavQkN2n8ln6HlPoSGvDX0bzvCqQkOe7Uto2HlGoSGPlR4FIR5VaMiDpUdBiNUKDbm99CgIcZtCQ64tPQpCXKPQkMWlR0GIRQoNmQP8VXokBKjGYI4pABwuPRoCTJoKwIHSoyHAflMB+Kj0aAjwoakA7Cg9GgJsNxWAFzOLeNPEAL7JrOUFUwHYmFnEByYGMJlZywZTAXgos4ivbPasgK41FYB7M4vomRDAXPK5x1QArs8s4g8TAljSoCHXmQrApZlF/FudlSYCcHWDhlxiKgCjwD+ZhSw1EYAbZ8OJdRJgKrOY5SYCcHdmDUdMDeAQ+nyeqGF1ZtxvTQ3gM/R5N1HDw5lxPzU1gF3o83qihk2Zcd82NYBt6PN8oobnMuO+bGoAT6LPpkQNr2TG3WJqNPj+7ZKJRA1vZcZdb2oAq9BnVaKG9zPj3m9qADehz62JGr7MjLvC1ACuoh0OOlgLudLUABbSDj85WAtZaENkU011mP9xl9ZUxzbVnx0+IK0eEvqzpgrYVPOEd2CWt6YK2FSLO8h9mVtrqoBNdUUHud/g1poqYFONdZD7HW6tKac21ReJ3B9wa005tan2JHKfcGtNObWptidyf8KtNeXUptqayP1pt9ZUC9fyqbN3Hc15KvEZL7m1plqwqVJr3WtozuOJz3jDtTU1YJvqk0TMlTTnrHtvqxs819bUgG2qs266Bu6kOfe1sGtGx5oasE31XSLmzTTnlhZOJB1rasA21c+JmCPVal+1u6P63fOIW+2m3Fl/5V2Q+IwfXVtTA7apTpxH/JG+5vw6Q6yjfU045/229d/5taYGbFNV6xCjmT7HeHWm1sd4zqbn+urw74y8N5o6DWyqiwvmfJF7a6oFm+rygjlf5t6aasGmGiuY85h7a6oFm+pI3z/j0Q7y7L84mHRvTbVkU810uTq3pSY0fT+LnjXVgk018OZU9x+Z9zD+rKkCNtVvfc2Zd45N+KWlXPSsqcI21dG+5sz/XxNmumEcNHrWlJBN9Xt9dMku84ITm6opetaUc5uqKXrWlHObqil61pRzm6opetaUc5uqKXrWVAGbSgk9a6qATaWEpjWVmCWPAO8Ax/DPNPAxsFnphTlZAAuAu6o3KQBf44depRvUL6W50GYrwrNnetbMAsezpzcUs0B49kwP/SwQmD29mAVlZ890zIIys2e8frL8fX1sq3+2oOt8giAIgiAIgiAIgiAIgsCGjP8ATtjtOOJmsygAAAAASUVORK5CYII=" 
         alt="CSS3"
+    />
+    <img
+        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+        alt="Sass"
+    />
+    <img
+        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap"
+    />
+    <img
+        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+        alt="Tailwind" 
     />
     <img
         src="https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
