@@ -1,12 +1,8 @@
-![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
-
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdvbnVzb2pqeTNqaWIwZHhibjBkdGdjYTJ0NDQ4c3Z1azdxMGplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NzQSHl01OBLkk/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM0dzVuOHpoNWI5a2JlbXliNXR6ZHBodG1ibzBiNDI4d3lwdmp0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif"  />
 </div>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+#Frontend Developer & UI Designer
 
 <div align="center">
     <a href="https://aldiransantos.vercel.app/" target="_top"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" /></a>    
