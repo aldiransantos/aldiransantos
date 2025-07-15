@@ -1,15 +1,9 @@
 ![Aldiran Santos - Frontend Developer](./imgs/cover.jpg)
 
 <div align="center">
-    <a href="https://aldiransantos.vercel.app/" target="_top">
-        <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" />
-    </a>    
-    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contact.aldiransantos@gmail.com.com&amp;su=Hello%F0%9F%91%8B" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-    </a>    
-    <a href="https://www.linkedin.com/in/aldiransantosdev/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>    
+    <a href="https://aldiransantos.vercel.app/" target="_top"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" /></a>    
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contact.aldiransantos@gmail.com.com&amp;su=Hello%F0%9F%91%8B" target="_blank"><img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>    
+    <a href="https://www.linkedin.com/in/aldiransantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>    
     <a href="https://aldiransantos.vercel.app/resume.pdf" target="_blank">
         <img src="https://img.shields.io/badge/CURRICULUM-002D57?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLklEQVR4nO2bTUgVURTHJyKysLIIXFTSl6C16DszhAp0UQQJLiLICgJRgjCwWgmt+rBoURT0gbqIFkXRIpKitFpGbdq0KZ5hoEn0hQVl9YtD58HwevOeT9/MuzNz/3DwvnfP3Ov8uPe+c8/ccRwrK6tcBcwBtgJNfptjmoC9wFcCkvY51TFBwHrgV1A37wJwBNhS6Pt3gItB3rwLwDHgG7Cp0AAeFRCA6AtQVUgAfQUGIPoMrI0zANEnYHWcAYiGgeVxBiB6D1TGGYBoAFgSWQDAZKA9i08CKIsqgGVANfAji99rYF4YAHRKQAMsdlk5sAN4lsb/BjBJbg6ozWIVpgM4pe3M17+1uumR/UUZMMUDQi/QOAYAYmtMBfAbmAns1GBmGrARGHVFeQuAeiamPlMBDGgbe4Btrja3Ay81uJHy0qgCSKTkE2RjdR4oSuljYaQBAKd1OiT1Drik31fHAUBXBp99UQbwVtu4ksFnt/4sRhLAd43qDmXwWQnUEFEAojpgLjDE/7qvAc8JIgzguSQ4Nbx9ojHACNANzJZNTR4SrkYDEPXIKND2imRaaFmG/xsmLuMBoJGgLIYHgTbgTh6zzcYBuKmbn+Ic+ikGNgO3wg6gRa+rAFqBo2rN+r0sinVabnbVtyZ3dsCBsAK4qtccTjO85XMJsEKtxMOnTdvoDCOAcmAD8MejXra/s9SknE5ybZWOoFABGFb/sx71I/qbfxw4o74fPXyT9R/CBKA/y9B9ofW3gQdafuzh26n1/WECkMiy8bmm9a9co+Wch2+X1ieiBKBd018/9XMpsD9OAHbp4jekqbBFmh6LDYCHmhOsBFbpaLgeJwCip8AMYDpwF2+FGkCHbnC8rEctk09HGAEM5rlfiRkGwwRAdE+TnfkwaYuwASiULADHjoDgp0BLytPe8ViNKzIM3RTozsOx2GyHIIwGYJIsAMeOAJ+EnQJ4rQHyWOtkgHbZtDWg3rdO0/8fpfqw1RgAJskCcOwIiNALE+NQr58ALmC+uv0EsM51sNFEjfr+Ngn/DjoG9tpcDpL0eqOvN5+UnvNpCOLFyTFaQ/LUiZWVlZOL/gLiquKXEeuregAAAABJRU5ErkJggg==" alt="curriculum" />
     </a>
