@@ -186,7 +186,7 @@
             alt="Bootstrap"
         />
         <img
-            src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
+            src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVR4nM2WLUtEQRSGRxAN2kw2wSAIGrQsBrtgscmuKAiyxWSwbl0WBC2yBovJ7P4E8SuLQVCD4C8QV1Dx0WHfC6Mse4PnXHzTnDnDPHPmnPkIQQJWgCugzd/VBi6BSjZ/BjnAT800Em+Vg0L01nkwykmeXiKoEIUcf6zCQ6AO7AInwKsHaPJHeXaKZxx4cAEBc8AqMCh7yQu0J7sme0j2I9ACTmPCLUFHyRYeAwOJPQK8WYE2ZI8CJbXndegrFhFNADPJ6reAWbU3gQ+PqltUPhpJ3zRwYxHRus7QXeL7BHaAYY0Zs8xRN90C/Rp37QGqAgvAmsb0AU8eoKkkRxGy3WuiPFBc4T3w3MX3riempe3rqX9ze5spFPnwXRQAOgt5d5SRlrPybDpC9n/fYeX4WzH8QMa5OpF8A74AOh+Whp57V6UAAAAASUVORK5CYII="
             alt="Adobe Photoshop"
         />
     </div>
