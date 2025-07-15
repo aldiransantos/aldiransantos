@@ -111,7 +111,7 @@
             alt="Figma"
         />
         <img
-            src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
+            src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEyUlEQVR4nO2dXWiXVRzH/75vOnVrZWCpyDYEmbqLXky6CLwIgkKwC0EvpJt0i0EkwUDpBe8qGgQl7SJSK9BReWvblYgRCSIoJTETX0pHZa65yrav/PAZ/j3+npfzPOfZ/7Tz/Vxu5/c75zmf5/Wc8zz/SoUQQgghhBBCPATAMgD9AG6A2CJ99iWAVS5l/GbdDGIiffioCyFyZBA3HHIhhKcpd/zpQghxCIV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoV4BoXkoMx5IQrJQShCXlRyDxTMOaDk3Fi0oaEI+RHAbCP34wAmCuR8SmnviaINDUWIsF3J/3XOXEeUXJtcNDIkIT8DmGfkbwcwbplnHECHkWcmgFMuGhmSEKFLqeOgZY7PlBzbXDUwNCFXAMw36lgJ4J+M8f+ZyzIBzAHwk6sGhiZEeF2pZ1/G2I+V2B0uGxeikN8BNBn1LAUwmhI3JmuNjbg6ABddNi5EIcJbSl3vpsS8r8Tsct2wUIWMAFhi1NUs619jyv8F4GGjfAOAq64bFqoQ4T2lvjdiyu5Vyr5pWd8tAIcBPCevBkSnuzYAOwGcmywUshDtmtCg7PV/AHjAKPdgwtGkcQHA0wnbOQ/AF6ELEfYpdb5mlOnJcb2pZsg8PcZs6ywA35bZDwVUuG1IAv8CaDHqrAdwKfr/rwAWGP9/BMDNjPnl/ZbVFtu7tsx+KKDCbUNSOKjU+3L0v+4CzyzC7pjtegJAH4BBAL1y2z0V/fB/ESJjU+3K0/egMvbVEh1VWbhsjgpEObqU8bNfALRSyF2+UjquvuC419tK/PqEwczvZJCyzB2zUhRMHRNyGklpyxrLkeF2Jcc3KTHPU8hdjqYIsZk7+SHmFe+0CbE+CrmXZ2I65EnL2cX9So7ODHGnKORejsd0iO38+y4lxycZ4m5SSDlCnlVyfJ8h7m8KKeeU1a7kkFtbCqnRRX25Muee5Q6NR0gV61OE2CyIaDRi52eMo5CSHgxnG3FNFJId2evXZRw6ybogos6IW0Qh2TmQsHChO+fgYrMRM5dCajv8vkIRKRNiaQR/DSlrgqpDiZGJKgpJYMz87B3unOuHlWVDjZZTuJsVIccopHaLHHqU8h9lEDJqxkWxTqgUBeUhU6sPWez1I8qyIe1omuTTnCscz4UqRJs8eiclpjfD9WaSIaVsa57p5BCEyCdTF+e4cxpTlg1V35GZtCnbczalji0hCimy2LovYUGEifYM80pC7mvmA2WoryPYLFy4Ze75Ca8jnAEwQxnTktfrNDrL7ofp+sLO50qOrRbzIuuU09yHprwQhJyXIYyCCxcQlV+rDK+fxv2clCNI2S65o3tJTp8ANlT9fU5IQmr10ucei+19tcx+yKGgnIZEdzezCs4CJs6fyClH1ubGvAa3PcO2Phb3OXBMQyFlfDhg0OLDASJ+L4CFMdv5QrTKPvjV71PNMIAPouWkndHDqHbtKQWfjhACCvEOHiGeQSGeQSGeQSGeQSGeQSGeQSGeQSGeQSGeQSGeQSGeQSGeQSHTUAh/nNgd110IkR9nJ27odyFkFX/g3tlqzftWUuaVIp/DO2T5BTdyB+mzfmcyCCGEEEIIIaTiltsg1tfYpqe0bgAAAABJRU5ErkJggg=="
             alt="Adobe XD"
         />
         <img
@@ -211,7 +211,7 @@
             alt="JavaScript" 
         />
         <img
-            src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
+            src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVR4nM2WLUtEQRSGRxAN2kw2wSAIGrQsBrtgscmuKAiyxWSwbl0WBC2yBovJ7P4E8SuLQVCD4C8QV1Dx0WHfC6Mse4PnXHzTnDnDPHPmnPkIQQJWgCugzd/VBi6BSjZ/BjnAT800Em+Vg0L01nkwykmeXiKoEIUcf6zCQ6AO7AInwKsHaPJHeXaKZxx4cAEBc8AqMCh7yQu0J7sme0j2I9ACTmPCLUFHyRYeAwOJPQK8WYE2ZI8CJbXndegrFhFNADPJ6reAWbU3gQ+PqltUPhpJ3zRwYxHRus7QXeL7BHaAYY0Zs8xRN90C/Rp37QGqAgvAmsb0AU8eoKkkRxGy3WuiPFBc4T3w3MX3riempe3rqX9ze5spFPnwXRQAOgt5d5SRlrPybDpC9n/fYeX4WzH8QMa5OpF8A74AOh+Whp57V6UAAAAASUVORK5CYII="
             alt="Adobe Photoshop"
         />
         <img
