@@ -321,6 +321,7 @@
                     </td>
                 </tr>
             </table>
+            ###
         </td>
         <td align="center" width="33.3%">
             <h3 align="center">React Course</h3>
@@ -341,6 +342,7 @@
                     </td>
                 </tr>
             </table>
+            ###
         </td>
         <td align="center" width="33.3%">
             <h3 align="center">Vue.js 2 Course</h3>
@@ -361,6 +363,7 @@
                     </td>
                 </tr>
             </table>
+            ###
         </td>
     </tr>
     <tr>
@@ -383,6 +386,7 @@
                     </td>
                 </tr>
             </table>
+            ###
         </td>
         <td align="center" width="33.3%"">
             <h3 align="center">Responsive Web Design</h3>
@@ -403,6 +407,7 @@
                     </td>
                 </tr>
             </table>
+            ###
         </td>
         <td align="center" width="33.3%"">
             <h3 align="center">Advanced UI Design</h3>
@@ -423,6 +428,7 @@
                     </td>
                 </tr>
             </table>
+            ###
         </td>
     </tr>
 </table>
