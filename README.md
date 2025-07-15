@@ -1,12 +1,8 @@
+<h1 align="center">Frontend Developer & UI Designer</h1>
+
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM0dzVuOHpoNWI5a2JlbXliNXR6ZHBodG1ibzBiNDI4d3lwdmp0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif"  />
 </div>
-
-###
-
-<h1 align="center">Frontend Developer & UI Designer</h1>
-
-###
 
 <div align="center">
     <a href="https://aldiransantos.vercel.app/" target="_top"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=ansible&logoColor=white" alt="Portfolio" /></a>    
